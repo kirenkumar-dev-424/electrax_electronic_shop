@@ -1,0 +1,3244 @@
+[
+  {
+    "id": "phone_samsung_s25_ultra",
+    "name": "Samsung Galaxy S25 Ultra 5G (12GB RAM, 256GB, Titanium Black)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartphones",
+    "price": "₹1,19,999",
+    "stock": 25,
+    "thumbnail": "https://shop.greengadgets.net.au/cdn/shop/files/SAMS938B256WHTA_9fd7a649-bc9a-4842-bd38-6ecaef4a59f5_1200x.jpg?v=1770763755",
+    "images": [
+      "https://shop.greengadgets.net.au/cdn/shop/files/SAMS938B256WHTA_9fd7a649-bc9a-4842-bd38-6ecaef4a59f5_1200x.jpg?v=1770763755"
+    ],
+    "details": {
+      "description": "Samsung Galaxy S25 Ultra 5G features a premium titanium design, a large Dynamic AMOLED display, advanced Galaxy AI features and a powerful camera system.",
+      "highlights": [
+        "12GB RAM and 256GB storage",
+        "6.9-inch Dynamic AMOLED 2X display",
+        "200MP primary camera",
+        "5000mAh battery",
+        "S Pen support",
+        "5G connectivity"
+      ],
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "Galaxy S25 Ultra",
+        "Color": "Titanium Black",
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Display": "6.9-inch Dynamic AMOLED 2X",
+        "Processor": "Snapdragon 8 Elite for Galaxy",
+        "Rear Camera": "200MP + 50MP + 50MP + 10MP",
+        "Front Camera": "12MP",
+        "Battery": "5000mAh",
+        "Operating System": "Android",
+        "Network": "5G"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 1250,
+    "originalPrice": "₹1,29,999",
+    "discount": "8% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.samsung.com/in/smartphones/galaxy-s25-ultra/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "phone_apple_iphone_17_pro",
+    "name": "Apple iPhone 17 Pro (256GB, Silver)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartphones",
+    "price": "₹1,34,900",
+    "stock": 18,
+    "thumbnail": "https://cdn.multitronic.fi/images/prod/9/5/MG8G4QN-A-1.webp",
+    "images": [
+      "https://cdn.multitronic.fi/images/prod/9/5/MG8G4QN-A-1.webp"
+    ],
+    "details": {
+      "description": "Apple iPhone 17 Pro delivers premium performance with its advanced camera system, Super Retina XDR display, powerful Apple silicon and iOS experience.",
+      "highlights": [
+        "256GB internal storage",
+        "Premium Pro design",
+        "Advanced triple camera system",
+        "Super Retina XDR display",
+        "Face ID",
+        "5G connectivity"
+      ],
+      "specifications": {
+        "Brand": "Apple",
+        "Model": "iPhone 17 Pro",
+        "Color": "Silver",
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Display": "6.3-inch Super Retina XDR OLED",
+        "Processor": "Apple A19 Pro",
+        "Rear Camera": "48MP + 48MP + 48MP",
+        "Front Camera": "18MP",
+        "Operating System": "iOS",
+        "Network": "5G",
+        "Security": "Face ID"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.9,
+    "reviewCount": 980,
+    "originalPrice": "₹1,39,900",
+    "discount": "4% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.apple.com/in/iphone-17-pro/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "phone_oneplus_15",
+    "name": "OnePlus 15 5G (12GB RAM, 256GB, Infinite Black)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartphones",
+    "price": "₹72,999",
+    "stock": 32,
+    "thumbnail": "https://cdn.ispace.cz/files/photos/1600/1/19affedd3d8c38aef614f14566ad1e5d74447cac.jpg",
+    "images": [
+      "https://cdn.ispace.cz/files/photos/1600/1/19affedd3d8c38aef614f14566ad1e5d74447cac.jpg"
+    ],
+    "details": {
+      "description": "OnePlus 15 5G combines a high-refresh-rate AMOLED display, powerful Snapdragon processor, advanced camera features and fast charging in a premium smartphone.",
+      "highlights": [
+        "12GB RAM and 256GB storage",
+        "6.78-inch AMOLED display",
+        "165Hz refresh rate",
+        "Triple 50MP rear camera",
+        "7300mAh battery",
+        "5G connectivity"
+      ],
+      "specifications": {
+        "Brand": "OnePlus",
+        "Model": "OnePlus 15",
+        "Color": "Infinite Black",
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Display": "6.78-inch AMOLED",
+        "Processor": "Snapdragon 8 Elite Gen 5",
+        "Rear Camera": "50MP + 50MP + 50MP",
+        "Front Camera": "32MP",
+        "Battery": "7300mAh",
+        "Operating System": "Android",
+        "Network": "5G"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 740,
+    "originalPrice": "₹79,999",
+    "discount": "9% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.4,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.oneplus.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "phone_xiaomi_17",
+    "name": "Xiaomi 17 5G (12GB RAM, 512GB, Black)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartphones",
+    "price": "₹69,999",
+    "stock": 27,
+    "thumbnail": "https://www.proshop.dk/Images/915x900/3446341_6beb9e550046.png",
+    "images": [
+      "https://www.proshop.dk/Images/915x900/3446341_6beb9e550046.png"
+    ],
+    "details": {
+      "description": "Xiaomi 17 5G offers a compact premium design, a high-resolution AMOLED display, Snapdragon performance and Leica-inspired camera technology.",
+      "highlights": [
+        "12GB RAM and 512GB storage",
+        "6.3-inch LTPO AMOLED display",
+        "120Hz refresh rate",
+        "Advanced Leica camera system",
+        "Snapdragon processor",
+        "5G connectivity"
+      ],
+      "specifications": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi 17",
+        "Color": "Black",
+        "RAM": "12GB",
+        "Storage": "512GB",
+        "Display": "6.3-inch LTPO AMOLED",
+        "Processor": "Snapdragon 8 Elite Gen 5",
+        "Rear Camera": "50MP + 50MP + 50MP",
+        "Front Camera": "50MP",
+        "Operating System": "Android",
+        "Network": "5G"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 560,
+    "originalPrice": "₹74,999",
+    "discount": "7% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.3,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.mi.com/global/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "phone_vivo_x300_pro",
+    "name": "vivo X300 Pro 5G (16GB RAM, 512GB, Phantom Black)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartphones",
+    "price": "₹1,09,999",
+    "stock": 21,
+    "thumbnail": "https://eu-exstatic-vivofs.vivo.com/8Xa6evfY85lu15Pb/1761846094064/7e71bdfca56cae9a923d12d11aa739f0.png",
+    "images": [
+      "https://eu-exstatic-vivofs.vivo.com/8Xa6evfY85lu15Pb/1761846094064/7e71bdfca56cae9a923d12d11aa739f0.png"
+    ],
+    "details": {
+      "description": "vivo X300 Pro 5G features a premium AMOLED display, advanced ZEISS camera technology, powerful performance and a large battery for demanding users.",
+      "highlights": [
+        "16GB RAM and 512GB storage",
+        "6.78-inch AMOLED display",
+        "120Hz refresh rate",
+        "ZEISS camera system",
+        "200MP telephoto camera",
+        "5440mAh battery",
+        "5G connectivity"
+      ],
+      "specifications": {
+        "Brand": "vivo",
+        "Model": "X300 Pro",
+        "Color": "Phantom Black",
+        "RAM": "16GB",
+        "Storage": "512GB",
+        "Display": "6.78-inch AMOLED",
+        "Processor": "MediaTek Dimensity 9500",
+        "Rear Camera": "50MP + 50MP + 200MP",
+        "Front Camera": "50MP",
+        "Battery": "5440mAh",
+        "Operating System": "Android",
+        "Network": "5G"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 690,
+    "originalPrice": "₹1,19,999",
+    "discount": "8% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.vivo.com/in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "phone_oppo_find_x9_pro",
+    "name": "OPPO Find X9 Pro 5G (16GB RAM, 512GB, Silk White)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartphones",
+    "price": "₹1,09,999",
+    "stock": 16,
+    "thumbnail": "https://bizweb.dktcdn.net/thumb/1024x1024/100/506/962/products/oppo-find-x9-pro-trang-3db96955-ede1-4b50-896e-24e3afd7faaa.jpg?v=1773231600963",
+    "images": [
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/506/962/products/oppo-find-x9-pro-trang-3db96955-ede1-4b50-896e-24e3afd7faaa.jpg?v=1773231600963"
+    ],
+    "details": {
+      "description": "OPPO Find X9 Pro 5G delivers flagship performance with a premium AMOLED display, advanced Hasselblad camera system and powerful battery technology.",
+      "highlights": [
+        "16GB RAM and 512GB storage",
+        "6.78-inch LTPO AMOLED display",
+        "120Hz refresh rate",
+        "200MP periscope telephoto camera",
+        "Hasselblad camera system",
+        "7500mAh battery",
+        "5G connectivity"
+      ],
+      "specifications": {
+        "Brand": "OPPO",
+        "Model": "Find X9 Pro",
+        "Color": "Silk White",
+        "RAM": "16GB",
+        "Storage": "512GB",
+        "Display": "6.78-inch LTPO AMOLED",
+        "Processor": "MediaTek Dimensity 9500",
+        "Rear Camera": "50MP + 50MP + 200MP",
+        "Front Camera": "50MP",
+        "Battery": "7500mAh",
+        "Operating System": "Android",
+        "Network": "5G"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 430,
+    "originalPrice": "₹1,19,999",
+    "discount": "8% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.4,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.oppo.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "watch_apple_se3",
+    "name": "Apple Watch SE 3 GPS 40mm (Starlight Aluminium Case)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartwatches",
+    "price": "₹26,900",
+    "stock": 35,
+    "thumbnail": "https://static01.galaxus.com/productimages/3/4/6/7/4/6/4/2/4/7/1/9/4/4/2/8/3/0/7/019933ad-b655-768e-907f-5146395f5b2e_sea.jpeg",
+    "images": [
+      "https://static01.galaxus.com/productimages/3/4/6/7/4/6/4/2/4/7/1/9/4/4/2/8/3/0/7/019933ad-b655-768e-907f-5146395f5b2e_sea.jpeg"
+    ],
+    "details": {
+      "description": "Apple Watch SE 3 is designed for everyday fitness, health tracking and connectivity. It features an Always-On Retina display, sleep tracking, heart rate monitoring and useful safety features.",
+      "highlights": [
+        "40mm aluminium case",
+        "Always-On Retina display",
+        "Heart rate monitoring",
+        "Sleep score tracking",
+        "Fall and Crash Detection",
+        "GPS connectivity",
+        "Up to 18 hours battery life"
+      ],
+      "specifications": {
+        "Brand": "Apple",
+        "Model": "Watch SE 3",
+        "Color": "Starlight",
+        "Case Size": "40mm",
+        "Display": "Retina LTPO OLED",
+        "Processor": "Apple S10",
+        "Connectivity": "Bluetooth, Wi-Fi, GPS",
+        "Sensors": "Heart Rate, Temperature, Accelerometer, Gyroscope",
+        "Water Resistance": "50 metres",
+        "Battery Life": "Up to 18 hours",
+        "Compatibility": "iPhone",
+        "Operating System": "watchOS"
+      },
+      "compatibleWith": "iPhone"
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 850,
+    "originalPrice": "₹29,900",
+    "discount": "10% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.apple.com/in/apple-watch-se-3/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "watch_samsung_galaxy_watch8",
+    "name": "Samsung Galaxy Watch8 Bluetooth 40mm (Graphite)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartwatches",
+    "price": "₹19,999",
+    "stock": 28,
+    "thumbnail": "https://switch.com.kw/cdn/shop/files/009-galaxy-watch8-graphite-40mm-r-perspective.jpg?v=1752496749&width=1214",
+    "images": [
+      "https://switch.com.kw/cdn/shop/files/009-galaxy-watch8-graphite-40mm-r-perspective.jpg?v=1752496749&width=1214"
+    ],
+    "details": {
+      "description": "Samsung Galaxy Watch8 is a premium Android smartwatch featuring a bright AMOLED display, advanced health tracking, sleep coaching and Galaxy AI-powered insights.",
+      "highlights": [
+        "40mm aluminium case",
+        "Super AMOLED display",
+        "Advanced sleep coaching",
+        "Heart rate monitoring",
+        "GPS tracking",
+        "5ATM water resistance",
+        "Wear OS platform"
+      ],
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "Galaxy Watch8",
+        "Color": "Graphite",
+        "Case Size": "40mm",
+        "Display": "Super AMOLED",
+        "Processor": "Exynos W1000",
+        "RAM": "2GB",
+        "Storage": "32GB",
+        "Connectivity": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Sensors": "Heart Rate, ECG, Accelerometer, Gyroscope",
+        "Water Resistance": "5ATM, IP68",
+        "Operating System": "Wear OS"
+      },
+      "compatibleWith": "Android smartphones"
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 720,
+    "originalPrice": "₹24,999",
+    "discount": "20% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.4,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.samsung.com/in/watches/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "watch_oneplus_2r",
+    "name": "OnePlus Watch 2R Bluetooth (Black Steel)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartwatches",
+    "price": "₹13,999",
+    "stock": 42,
+    "thumbnail": "https://www.giztop.com/media/catalog/product/cache/dc206057cdd42d7e34b9d36e347785ca/o/n/oneplus_watch_2r-5.png",
+    "images": [
+      "https://www.giztop.com/media/catalog/product/cache/dc206057cdd42d7e34b9d36e347785ca/o/n/oneplus_watch_2r-5.png"
+    ],
+    "details": {
+      "description": "OnePlus Watch 2R combines Wear OS features, a bright AMOLED display, dual-frequency GPS and long battery life. It supports Google applications and fitness tracking.",
+      "highlights": [
+        "1.43-inch AMOLED display",
+        "Snapdragon W5 Gen 1 processor",
+        "Dual-frequency GPS",
+        "Bluetooth calling",
+        "100+ workout modes",
+        "5ATM and IP68 protection",
+        "Up to 100 hours in Smart Mode"
+      ],
+      "specifications": {
+        "Brand": "OnePlus",
+        "Model": "Watch 2R",
+        "Color": "Black Steel",
+        "Case Size": "46mm",
+        "Display": "1.43-inch AMOLED",
+        "Resolution": "466 x 466 pixels",
+        "Processor": "Snapdragon W5 Gen 1",
+        "RAM": "2GB",
+        "Storage": "32GB",
+        "Connectivity": "Bluetooth, Wi-Fi, GPS, NFC",
+        "Sensors": "Heart Rate, SpO2, Accelerometer, Gyroscope",
+        "Water Resistance": "5ATM, IP68",
+        "Operating System": "Wear OS"
+      },
+      "compatibleWith": "Android smartphones"
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 640,
+    "originalPrice": "₹17,999",
+    "discount": "22% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.3,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.oneplus.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "watch_garmin_vivoactive5",
+    "name": "Garmin Vivoactive 5 GPS Smartwatch (Black Slate)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartwatches",
+    "price": "₹17,490",
+    "stock": 15,
+    "thumbnail": "https://totallysportsandsurf.com.au/cdn/shop/files/VIVOACTIVE5-BLACKSLATE_400x.png?v=1704264177",
+    "images": [
+      "https://totallysportsandsurf.com.au/cdn/shop/files/VIVOACTIVE5-BLACKSLATE_400x.png?v=1704264177"
+    ],
+    "details": {
+      "description": "Garmin Vivoactive 5 is designed for fitness and wellness tracking. It includes built-in GPS, AMOLED display, Body Battery energy monitoring, sleep coaching and multiple sports applications.",
+      "highlights": [
+        "1.2-inch AMOLED display",
+        "Built-in GPS",
+        "Body Battery energy monitoring",
+        "Sleep coaching",
+        "HRV status tracking",
+        "30+ sports applications",
+        "Up to 11 days battery life"
+      ],
+      "specifications": {
+        "Brand": "Garmin",
+        "Model": "Vivoactive 5",
+        "Color": "Black Slate",
+        "Case Size": "42mm",
+        "Display": "1.2-inch AMOLED",
+        "Resolution": "390 x 390 pixels",
+        "Connectivity": "Bluetooth, ANT+, GPS",
+        "Sensors": "Heart Rate, Pulse Ox, Accelerometer, Compass",
+        "Water Resistance": "5ATM",
+        "Battery Life": "Up to 11 days",
+        "Storage": "4GB",
+        "Compatibility": "Android and iOS"
+      },
+      "compatibleWith": "Android and iOS smartphones"
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 410,
+    "originalPrice": "₹21,990",
+    "discount": "20% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.garmin.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "watch_noise_colorfit_pro6",
+    "name": "Noise ColorFit Pro 6 Smartwatch (Rose Gold)",
+    "category": "Mobiles & Accessories",
+    "subcategory": "Smartwatches",
+    "price": "₹5,499",
+    "stock": 55,
+    "thumbnail": "https://www.gonoise.com/cdn/shop/files/Artboard_46.webp?v=1773139487",
+    "images": [
+      "https://www.gonoise.com/cdn/shop/files/Artboard_46.webp?v=1773139487"
+    ],
+    "details": {
+      "description": "Noise ColorFit Pro 6 is an everyday smartwatch with a large AMOLED display, Bluetooth connectivity, health tracking, AI companion features and multiple sports modes.",
+      "highlights": [
+        "1.85-inch AMOLED display",
+        "Bluetooth calling",
+        "AI Companion",
+        "100+ sports modes",
+        "Heart rate monitoring",
+        "SpO2 monitoring",
+        "IP68 water resistance"
+      ],
+      "specifications": {
+        "Brand": "Noise",
+        "Model": "ColorFit Pro 6",
+        "Color": "Rose Gold",
+        "Display": "1.85-inch AMOLED",
+        "Connectivity": "Bluetooth 5.3",
+        "Sensors": "Heart Rate, SpO2, Accelerometer",
+        "Sports Modes": "100+",
+        "Water Resistance": "IP68",
+        "Battery Life": "Up to 7 days",
+        "Compatibility": "Android and iOS",
+        "Calling": "Bluetooth Calling"
+      },
+      "compatibleWith": "Android and iOS smartphones"
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 920,
+    "originalPrice": "₹7,999",
+    "discount": "31% off",
+    "seller": "Demo Electronics Store",
+    "sellerRating": 4.2,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.gonoise.com/products/noise-colorfit-pro-6-smart-watch",
+    "availability": "in_stock"
+  },
+  {
+    "id": "laptop_001",
+    "name": "Lenovo IdeaPad Slim 5 14IMH9",
+    "category": "Computers & Accessories",
+    "subcategory": "Laptops",
+    "price": "₹75,500",
+    "stock": 24,
+    "thumbnail": "https://longbinh.com.vn/images/detailed/109/Laptop_LENOVO_IdeaPad_Slim_5_14IMH9__83DA001NVN__-_Ultra_5_125H-LONGBINH.COM.VN6.jpg",
+    "images": [
+      "https://longbinh.com.vn/images/detailed/109/Laptop_LENOVO_IdeaPad_Slim_5_14IMH9__83DA001NVN__-_Ultra_5_125H-LONGBINH.COM.VN6.jpg"
+    ],
+    "details": {
+      "description": "Lenovo IdeaPad Slim 5 14IMH9 is a slim productivity laptop featuring an Intel Core Ultra 5 processor, 16GB RAM and 512GB SSD. Suitable for students, professionals and everyday multitasking.",
+      "highlights": [
+        "Intel Core Ultra 5 125H processor",
+        "14-inch WUXGA OLED display",
+        "16GB LPDDR5x RAM",
+        "512GB NVMe SSD",
+        "Intel Arc Graphics"
+      ],
+      "specifications": {
+        "Brand": "Lenovo",
+        "Model": "IdeaPad Slim 5 14IMH9",
+        "Processor": "Intel Core Ultra 5 125H",
+        "RAM": "16GB LPDDR5x",
+        "Storage": "512GB SSD",
+        "Graphics": "Intel Arc Graphics",
+        "Display": "14-inch OLED",
+        "Operating System": "Windows 11",
+        "Color": "Silver"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 186,
+    "originalPrice": "₹89,990",
+    "discount": "16% off",
+    "seller": "Lenovo Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.lenovo.com/in/en/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "laptop_003",
+    "name": "Dell XPS 14 2026",
+    "category": "Computers & Accessories",
+    "subcategory": "Premium Laptops",
+    "price": "₹2,57,890",
+    "stock": 12,
+    "thumbnail": "https://www.notebookcheck.pl/fileadmin/Notebooks/Dell/Dell-XPS-14-2026-2.jpg",
+    "images": [
+      "https://www.notebookcheck.pl/fileadmin/Notebooks/Dell/Dell-XPS-14-2026-2.jpg"
+    ],
+    "details": {
+      "description": "Dell XPS 14 is a premium Windows laptop featuring a high-resolution OLED display, modern Intel processor and a lightweight design. Designed for professionals, developers and demanding productivity workloads.",
+      "highlights": [
+        "Intel Core Ultra X7 processor",
+        "14-inch OLED touchscreen",
+        "32GB RAM",
+        "1TB SSD",
+        "Premium compact design"
+      ],
+      "specifications": {
+        "Brand": "Dell",
+        "Model": "XPS 14 2026",
+        "Processor": "Intel Core Ultra X7 358H",
+        "RAM": "32GB",
+        "Storage": "1TB SSD",
+        "Graphics": "Intel Arc Graphics",
+        "Display": "14-inch OLED",
+        "Operating System": "Windows 11",
+        "Color": "Graphite"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 92,
+    "originalPrice": "₹2,79,990",
+    "discount": "8% off",
+    "seller": "Dell Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.dell.com/en-in",
+    "availability": "in_stock"
+  },
+  {
+    "id": "laptop_004",
+    "name": "ASUS Vivobook 16 X1605VA",
+    "category": "Computers & Accessories",
+    "subcategory": "Laptops",
+    "price": "₹64,990",
+    "stock": 28,
+    "thumbnail": "https://in.store.asus.com/media/catalog/product/1/_/1_x1605v_feature_photo_ind_blck_main_1.png?bg-color=255%2C255%2C255&canvas=%3A&fit=bounds&height=&quality=80&width=",
+    "images": [
+      "https://in.store.asus.com/media/catalog/product/1/_/1_x1605v_feature_photo_ind_blck_main_1.png?bg-color=255%2C255%2C255&canvas=%3A&fit=bounds&height=&quality=80&width="
+    ],
+    "details": {
+      "description": "ASUS Vivobook 16 is a large-screen laptop designed for everyday computing, office work, entertainment and multitasking. It features a 16-inch WUXGA display and Intel Core i7 processor.",
+      "highlights": [
+        "Intel Core i7-13700H processor",
+        "16-inch WUXGA IPS display",
+        "Intel Iris Xe Graphics",
+        "60Hz refresh rate",
+        "Large productivity display"
+      ],
+      "specifications": {
+        "Brand": "ASUS",
+        "Model": "Vivobook 16 X1605VA",
+        "Processor": "Intel Core i7-13700H",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Graphics": "Intel Iris Xe Graphics",
+        "Display": "16-inch WUXGA IPS",
+        "Refresh Rate": "60Hz",
+        "Operating System": "Windows 11",
+        "Color": "Indie Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.3,
+    "reviewCount": 157,
+    "originalPrice": "₹79,990",
+    "discount": "19% off",
+    "seller": "ASUS Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://in.store.asus.com/everyday-laptops-asus-vivobook-16-x1605va-mb747ws.html",
+    "availability": "in_stock"
+  },
+  {
+    "id": "laptop_005",
+    "name": "Apple MacBook Pro 14-inch M5 Pro",
+    "category": "Computers & Accessories",
+    "subcategory": "MacBook Laptops",
+    "price": "₹2,49,990",
+    "stock": 15,
+    "thumbnail": "https://www.game.co.uk/images/imgzoom/39/39857503_xxl.jpg",
+    "images": [
+      "https://www.game.co.uk/images/imgzoom/39/39857503_xxl.jpg"
+    ],
+    "details": {
+      "description": "Apple MacBook Pro 14-inch with M5 Pro chip is a premium laptop designed for software development, creative applications, professional workloads and demanding multitasking.",
+      "highlights": [
+        "Apple M5 Pro chip",
+        "14.2-inch Liquid Retina XDR display",
+        "24GB unified memory",
+        "1TB SSD storage",
+        "macOS operating system"
+      ],
+      "specifications": {
+        "Brand": "Apple",
+        "Model": "MacBook Pro 14-inch M5 Pro",
+        "Processor": "Apple M5 Pro",
+        "RAM": "24GB Unified Memory",
+        "Storage": "1TB SSD",
+        "Graphics": "Integrated Apple GPU",
+        "Display": "14.2-inch Liquid Retina XDR",
+        "Operating System": "macOS",
+        "Color": "Space Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 312,
+    "originalPrice": "₹2,69,900",
+    "discount": "7% off",
+    "seller": "Apple Store",
+    "sellerRating": 4.8,
+    "returnPolicy": "Standard Apple Return Policy",
+    "productUrl": "https://www.apple.com/in/macbook-pro/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "laptop_006",
+    "name": "Samsung Galaxy Book6 Ultra",
+    "category": "Computers & Accessories",
+    "subcategory": "Premium Laptops",
+    "price": "₹3,10,990",
+    "stock": 9,
+    "thumbnail": "https://images.samsung.com/kdp/goods/2026/03/13/34fdd4d9-4220-4316-83b6-d486234c44f0.png",
+    "images": [
+      "https://images.samsung.com/kdp/goods/2026/03/13/34fdd4d9-4220-4316-83b6-d486234c44f0.png"
+    ],
+    "details": {
+      "description": "Samsung Galaxy Book6 Ultra is a premium creator laptop featuring an AMOLED touchscreen, Intel Core Ultra processor and NVIDIA GeForce RTX graphics. Suitable for professional productivity, content creation and demanding applications.",
+      "highlights": [
+        "Intel Core Ultra 7 processor",
+        "NVIDIA GeForce RTX 5070 graphics",
+        "16-inch AMOLED touchscreen",
+        "32GB RAM",
+        "2TB SSD storage"
+      ],
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "Galaxy Book6 Ultra",
+        "Processor": "Intel Core Ultra 7 356H",
+        "RAM": "32GB",
+        "Storage": "2TB SSD",
+        "Graphics": "NVIDIA GeForce RTX 5070",
+        "Display": "16-inch AMOLED",
+        "Refresh Rate": "120Hz",
+        "Operating System": "Windows 11",
+        "Color": "Gray"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 74,
+    "originalPrice": "₹3,39,990",
+    "discount": "9% off",
+    "seller": "Samsung Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.samsung.com/in/",
+    "availability": "in_stock"
+  },
+   {
+    "id": "ssd_001",
+    "name": "Samsung 990 EVO Plus 1TB NVMe SSD",
+    "category": "Computers & Accessories",
+    "subcategory": "Internal NVMe SSD",
+    "price": "₹18,990",
+    "stock": 25,
+    "thumbnail": "https://cdn.atacadoconnect.com/produtos/1245967/ssd-m-2-samsung-990-evo-plus-1tb-nvme-pcie-gen-4-mz-v9s1t0b-am-1245967-96105.webp",
+    "images": [
+      "https://cdn.atacadoconnect.com/produtos/1245967/ssd-m-2-samsung-990-evo-plus-1tb-nvme-pcie-gen-4-mz-v9s1t0b-am-1245967-96105.webp"
+    ],
+    "details": {
+      "description": "Samsung 990 EVO Plus is a high-performance internal NVMe SSD designed for fast boot times, gaming, software development and demanding workloads.",
+      "highlights": [
+        "1TB storage capacity",
+        "PCIe 4.0 x4 / PCIe 5.0 x2 interface",
+        "Sequential read speed up to 7,150 MB/s",
+        "Sequential write speed up to 6,300 MB/s",
+        "M.2 2280 form factor",
+        "5-year limited warranty"
+      ],
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "990 EVO Plus",
+        "Capacity": "1TB",
+        "Interface": "PCIe 4.0 x4 / PCIe 5.0 x2 NVMe",
+        "Form Factor": "M.2 2280",
+        "Read Speed": "Up to 7,150 MB/s",
+        "Write Speed": "Up to 6,300 MB/s",
+        "Memory Type": "V-NAND TLC",
+        "Warranty": "5 Years",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 245,
+    "originalPrice": "₹22,999",
+    "discount": "17% off",
+    "seller": "Samsung Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.samsung.com/in/memory-storage/nvme-ssd/990-evo-plus-1tb-nvme-pcie-gen-4-mz-v9s1t0bw/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "ssd_002",
+    "name": "WD Black SN850X 1TB NVMe SSD",
+    "category": "Computers & Accessories",
+    "subcategory": "Gaming NVMe SSD",
+    "price": "₹12,990",
+    "stock": 18,
+    "thumbnail": "https://img.computerunivers.net/cp/images/400x400/PI_728189526",
+    "images": [
+      "https://img.computerunivers.net/cp/images/400x400/PI_728189526"
+    ],
+    "details": {
+      "description": "WD Black SN850X is a high-speed gaming SSD designed for demanding PC games, fast application loading and professional workloads.",
+      "highlights": [
+        "1TB storage capacity",
+        "PCIe Gen4 x4 NVMe interface",
+        "Sequential read speed up to 7,300 MB/s",
+        "Sequential write speed up to 6,300 MB/s",
+        "Game Mode 2.0 support",
+        "5-year limited warranty"
+      ],
+      "specifications": {
+        "Brand": "Western Digital",
+        "Model": "WD Black SN850X",
+        "Capacity": "1TB",
+        "Interface": "PCIe Gen4 x4 NVMe",
+        "Form Factor": "M.2 2280",
+        "Read Speed": "Up to 7,300 MB/s",
+        "Write Speed": "Up to 6,300 MB/s",
+        "Endurance": "600 TBW",
+        "Warranty": "5 Years",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 390,
+    "originalPrice": "₹16,999",
+    "discount": "24% off",
+    "seller": "WD Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sandisk.com/en-in/products/ssd/internal-ssd/wd-black-sn850x-nvme-ssd",
+    "availability": "in_stock"
+  },
+  {
+    "id": "ssd_003",
+    "name": "Crucial P3 Plus 1TB NVMe SSD",
+    "category": "Computers & Accessories",
+    "subcategory": "Internal NVMe SSD",
+    "price": "₹7,990",
+    "stock": 32,
+    "thumbnail": "https://ecommerce.datablitz.com.ph/cdn/shop/files/bxdgnxfg_1024x.jpg?v=1749543843",
+    "images": [
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/bxdgnxfg_1024x.jpg?v=1749543843"
+    ],
+    "details": {
+      "description": "Crucial P3 Plus is an affordable PCIe Gen4 NVMe SSD suitable for everyday computing, gaming, application installation and storage upgrades.",
+      "highlights": [
+        "1TB storage capacity",
+        "PCIe Gen4 NVMe interface",
+        "Sequential read speed up to 5,000 MB/s",
+        "Sequential write speed up to 3,600 MB/s",
+        "M.2 2280 form factor",
+        "Suitable for laptop and desktop upgrades"
+      ],
+      "specifications": {
+        "Brand": "Crucial",
+        "Model": "P3 Plus",
+        "Capacity": "1TB",
+        "Interface": "PCIe Gen4 x4 NVMe",
+        "Form Factor": "M.2 2280",
+        "Read Speed": "Up to 5,000 MB/s",
+        "Write Speed": "Up to 3,600 MB/s",
+        "Endurance": "220 TBW",
+        "Memory Type": "3D NAND",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 178,
+    "originalPrice": "₹10,499",
+    "discount": "24% off",
+    "seller": "Crucial Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.crucial.com/ssd/p3-plus/ct1000p3pssd8",
+    "availability": "in_stock"
+  },
+  {
+    "id": "ssd_004",
+    "name": "Kingston NV3 1TB NVMe SSD",
+    "category": "Computers & Accessories",
+    "subcategory": "Internal NVMe SSD",
+    "price": "₹6,990",
+    "stock": 29,
+    "thumbnail": "https://cdn.qloud.ar/274/11-03-2026-03-03-43_2.webp",
+    "images": [
+      "https://cdn.qloud.ar/274/11-03-2026-03-03-43_2.webp"
+    ],
+    "details": {
+      "description": "Kingston NV3 is a compact PCIe 4.0 NVMe SSD designed for laptop and desktop storage upgrades, everyday productivity and gaming.",
+      "highlights": [
+        "1TB storage capacity",
+        "PCIe 4.0 x4 NVMe interface",
+        "Sequential read speed up to 6,000 MB/s",
+        "Sequential write speed up to 4,000 MB/s",
+        "M.2 2280 compact design",
+        "Low-power storage solution"
+      ],
+      "specifications": {
+        "Brand": "Kingston",
+        "Model": "NV3",
+        "Capacity": "1TB",
+        "Interface": "PCIe 4.0 x4 NVMe",
+        "Form Factor": "M.2 2280",
+        "Read Speed": "Up to 6,000 MB/s",
+        "Write Speed": "Up to 4,000 MB/s",
+        "Memory Type": "3D NAND",
+        "Warranty": "5 Years Limited",
+        "Color": "Blue"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 210,
+    "originalPrice": "₹9,499",
+    "discount": "26% off",
+    "seller": "Kingston Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd",
+    "availability": "in_stock"
+  },
+  {
+    "id": "ssd_005",
+    "name": "Seagate FireCuda 530 1TB NVMe SSD",
+    "category": "Computers & Accessories",
+    "subcategory": "Gaming NVMe SSD",
+    "price": "₹11,990",
+    "stock": 14,
+    "thumbnail": "https://ecommerce.datablitz.com.ph/cdn/shop/products/product-detail-product-image-2_l.jpg?v=1676880873",
+    "images": [
+      "https://ecommerce.datablitz.com.ph/cdn/shop/products/product-detail-product-image-2_l.jpg?v=1676880873"
+    ],
+    "details": {
+      "description": "Seagate FireCuda 530 is a high-performance gaming SSD designed for demanding workloads, fast game loading and intensive data transfers.",
+      "highlights": [
+        "1TB storage capacity",
+        "PCIe Gen4 x4 NVMe interface",
+        "Sequential read speed up to 7,300 MB/s",
+        "Sequential write speed up to 6,000 MB/s",
+        "M.2 2280 form factor",
+        "Designed for gaming and professional workloads"
+      ],
+      "specifications": {
+        "Brand": "Seagate",
+        "Model": "FireCuda 530",
+        "Capacity": "1TB",
+        "Interface": "PCIe Gen4 x4 NVMe",
+        "Form Factor": "M.2 2280",
+        "Read Speed": "Up to 7,300 MB/s",
+        "Write Speed": "Up to 6,000 MB/s",
+        "Memory Type": "3D TLC NAND",
+        "Controller": "Phison E18",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 145,
+    "originalPrice": "₹15,999",
+    "discount": "25% off",
+    "seller": "Seagate Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.seagate.com/products/gaming-drives/pc-gaming/firecuda-530-ssd/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "ssd_006",
+    "name": "Samsung T7 Shield 1TB Portable SSD",
+    "category": "Computers & Accessories",
+    "subcategory": "External Portable SSD",
+    "price": "₹10,990",
+    "stock": 21,
+    "thumbnail": "https://www.firstshop.co.za/cdn/shop/products/mu-pe1t0s-external-solid-state-drives-34955856871588_grande.png?v=1664472549",
+    "images": [
+      "https://www.firstshop.co.za/cdn/shop/products/mu-pe1t0s-external-solid-state-drives-34955856871588_grande.png?v=1664472549"
+    ],
+    "details": {
+      "description": "Samsung T7 Shield is a rugged portable external SSD designed for transferring files, backing up data and carrying large files between devices.",
+      "highlights": [
+        "1TB portable storage capacity",
+        "USB 3.2 Gen 2 interface",
+        "Sequential read speed up to 1,050 MB/s",
+        "Sequential write speed up to 1,000 MB/s",
+        "IP65 water and dust resistance",
+        "Drop resistance up to 3 metres"
+      ],
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "T7 Shield",
+        "Capacity": "1TB",
+        "Interface": "USB 3.2 Gen 2",
+        "Connector": "USB Type-C",
+        "Read Speed": "Up to 1,050 MB/s",
+        "Write Speed": "Up to 1,000 MB/s",
+        "Protection": "IP65 Water and Dust Resistance",
+        "Compatibility": "Windows, macOS, Android",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 325,
+    "originalPrice": "₹14,999",
+    "discount": "27% off",
+    "seller": "Samsung Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.samsung.com/in/memory-storage/portable-ssd/t7-shield-1tb-black-mu-pe1t0s-ww/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "pendrive_001",
+    "name": "SanDisk Ultra Flair 64GB USB 3.0 Pen Drive",
+    "category": "Computers & Accessories",
+    "subcategory": "USB Flash Drives",
+    "price": "₹899",
+    "stock": 35,
+    "thumbnail": "https://i.citrus.world/imgcache/size_800/uploads/shop/7/5/75dffe7e4523c9969113dd8078237f3d.png",
+    "images": [
+      "https://i.citrus.world/imgcache/size_800/uploads/shop/7/5/75dffe7e4523c9969113dd8078237f3d.png"
+    ],
+    "details": {
+      "description": "SanDisk Ultra Flair is a compact USB flash drive with a brushed-metal design, suitable for transferring documents, photos, videos and other files.",
+      "highlights": [
+        "64GB storage capacity",
+        "USB 3.0 interface",
+        "Read speeds up to 150MB/s",
+        "Durable metal casing",
+        "Password protection support",
+        "Compact and lightweight design"
+      ],
+      "specifications": {
+        "Brand": "SanDisk",
+        "Model": "Ultra Flair SDCZ73",
+        "Capacity": "64GB",
+        "Interface": "USB 3.0",
+        "Connector": "USB Type-A",
+        "Read Speed": "Up to 150MB/s",
+        "Write Speed": "Varies by capacity and usage",
+        "Body Material": "Metal",
+        "Compatibility": "Windows, macOS",
+        "Warranty": "5 Years Limited Warranty",
+        "Color": "Silver and Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 285,
+    "originalPrice": "₹1,299",
+    "discount": "31% off",
+    "seller": "SanDisk Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sandisk.com/en-in/products/usb-flash-drives/sandisk-ultra-flair-usb-3-0",
+    "availability": "in_stock"
+  },
+  {
+    "id": "pendrive_002",
+    "name": "Kingston DataTraveler Exodia 256GB USB 3.2 Pen Drive",
+    "category": "Computers & Accessories",
+    "subcategory": "USB Flash Drives",
+    "price": "₹1,899",
+    "stock": 22,
+    "thumbnail": "https://tuanphong.vn/pictures/full/2021/10/1634005371-662-usb-256gb-datatraveler-exodia-dtx-2.jpg",
+    "images": [
+      "https://tuanphong.vn/pictures/full/2021/10/1634005371-662-usb-256gb-datatraveler-exodia-dtx-2.jpg"
+    ],
+    "details": {
+      "description": "Kingston DataTraveler Exodia is a practical USB flash drive with a large storage capacity and portable design for transferring and storing files.",
+      "highlights": [
+        "256GB storage capacity",
+        "USB 3.2 Gen 1 interface",
+        "Read speeds up to 100MB/s",
+        "Protective cap design",
+        "Large keyring loop",
+        "Backward compatible with USB 2.0"
+      ],
+      "specifications": {
+        "Brand": "Kingston",
+        "Model": "DataTraveler Exodia DTX",
+        "Capacity": "256GB",
+        "Interface": "USB 3.2 Gen 1",
+        "Connector": "USB Type-A",
+        "Read Speed": "Up to 100MB/s",
+        "Write Speed": "Varies by capacity and usage",
+        "Body Material": "Plastic",
+        "Compatibility": "Windows, macOS, Linux",
+        "Color": "Black and Red"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 198,
+    "originalPrice": "₹2,499",
+    "discount": "24% off",
+    "seller": "Kingston Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.kingston.com/en/usb-flash-drives/datatraveler-exodia",
+    "availability": "in_stock"
+  },
+  {
+    "id": "pendrive_003",
+    "name": "HP v236w 16GB USB 2.0 Pen Drive",
+    "category": "Computers & Accessories",
+    "subcategory": "USB Flash Drives",
+    "price": "₹399",
+    "stock": 40,
+    "thumbnail": "https://www.ipshopy.com/image/cache/catalog/Uploaded%20Data/Amol/HP-v236w-16GB-USB-20-Pen-Drive-Silver-1_2025-08-22_12-08-50_336984_2025-09-20_07-12-57_416370_2025-10-07_06-11-20_266653-1000x1000.webp",
+    "images": [
+      "https://www.ipshopy.com/image/cache/catalog/Uploaded%20Data/Amol/HP-v236w-16GB-USB-20-Pen-Drive-Silver-1_2025-08-22_12-08-50_336984_2025-09-20_07-12-57_416370_2025-10-07_06-11-20_266653-1000x1000.webp"
+    ],
+    "details": {
+      "description": "HP v236w is a compact metal-body USB flash drive designed for everyday file storage, document transfers and carrying personal data.",
+      "highlights": [
+        "16GB storage capacity",
+        "USB 2.0 interface",
+        "Metal body design",
+        "Compact portable size",
+        "Plug-and-play operation",
+        "Suitable for documents and photos"
+      ],
+      "specifications": {
+        "Brand": "HP",
+        "Model": "v236w",
+        "Capacity": "16GB",
+        "Interface": "USB 2.0",
+        "Connector": "USB Type-A",
+        "Body Material": "Metal",
+        "Compatibility": "Windows, macOS, Linux",
+        "Color": "Silver"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.3,
+    "reviewCount": 124,
+    "originalPrice": "₹599",
+    "discount": "33% off",
+    "seller": "HP Store",
+    "sellerRating": 4.4,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.hp.com/in-en/shop/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "pendrive_004",
+    "name": "SanDisk Ultra Dual Drive Go 128GB USB Type-C",
+    "category": "Computers & Accessories",
+    "subcategory": "USB Type-C OTG Flash Drives",
+    "price": "₹1,499",
+    "stock": 19,
+    "thumbnail": "https://tshop.r10s.jp/kitcut/cabinet/item/180/p-473073.jpg?fitin=720%3A720",
+    "images": [
+      "https://tshop.r10s.jp/kitcut/cabinet/item/180/p-473073.jpg?fitin=720%3A720"
+    ],
+    "details": {
+      "description": "SanDisk Ultra Dual Drive Go is a dual-connector flash drive designed to transfer files between USB Type-C smartphones, tablets and USB Type-A computers.",
+      "highlights": [
+        "128GB storage capacity",
+        "USB Type-C and USB Type-A connectors",
+        "USB 3.1 Gen 1 interface",
+        "Read speeds up to 150MB/s",
+        "Swivel design",
+        "Suitable for compatible smartphones and computers"
+      ],
+      "specifications": {
+        "Brand": "SanDisk",
+        "Model": "Ultra Dual Drive Go",
+        "Capacity": "128GB",
+        "Interface": "USB 3.1 Gen 1",
+        "Connectors": "USB Type-C and USB Type-A",
+        "Read Speed": "Up to 150MB/s",
+        "Write Speed": "Varies by capacity and usage",
+        "Body Material": "Plastic",
+        "Compatibility": "USB Type-C Android devices, Windows, macOS",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 246,
+    "originalPrice": "₹1,999",
+    "discount": "25% off",
+    "seller": "SanDisk Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sandisk.com/en-in/products/usb-flash-drives/sandisk-ultra-dual-drive-go-usb-type-c",
+    "availability": "in_stock"
+  },
+  {
+    "id": "pendrive_005",
+    "name": "SanDisk Cruzer Blade 64GB USB 2.0 Pen Drive",
+    "category": "Computers & Accessories",
+    "subcategory": "USB Flash Drives",
+    "price": "₹599",
+    "stock": 33,
+    "thumbnail": "https://altitude.ph/cdn/shop/files/Sandisk_64GB_Cruzer_Blade_USB_SDCZ50-064GB-B35__AD_Web_1600x.jpg?v=1723427086",
+    "images": [
+      "https://altitude.ph/cdn/shop/files/Sandisk_64GB_Cruzer_Blade_USB_SDCZ50-064GB-B35__AD_Web_1600x.jpg?v=1723427086"
+    ],
+    "details": {
+      "description": "SanDisk Cruzer Blade is a lightweight and compact USB flash drive designed for storing and sharing everyday files, photos, music and videos.",
+      "highlights": [
+        "64GB storage capacity",
+        "USB 2.0 interface",
+        "Compact lightweight design",
+        "Plug-and-play operation",
+        "Easy file sharing",
+        "Black and red finish"
+      ],
+      "specifications": {
+        "Brand": "SanDisk",
+        "Model": "Cruzer Blade SDCZ50",
+        "Capacity": "64GB",
+        "Interface": "USB 2.0",
+        "Connector": "USB Type-A",
+        "Read Speed": "Not specified",
+        "Write Speed": "Not specified",
+        "Body Material": "Plastic",
+        "Compatibility": "Windows, macOS, Linux",
+        "Color": "Black and Red"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 176,
+    "originalPrice": "₹899",
+    "discount": "33% off",
+    "seller": "SanDisk Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sandisk.com/en-in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "pendrive_006",
+    "name": "SanDisk Ultra Fit 32GB USB 3.1 Pen Drive",
+    "category": "Computers & Accessories",
+    "subcategory": "Compact USB Flash Drives",
+    "price": "₹699",
+    "stock": 27,
+    "thumbnail": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/SDCZ43F032_C_sandisk_32gb_ultra_fit_usb_3_1_flash_drive_black.jpg",
+    "images": [
+      "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/SDCZ43F032_C_sandisk_32gb_ultra_fit_usb_3_1_flash_drive_black.jpg"
+    ],
+    "details": {
+      "description": "SanDisk Ultra Fit is an ultra-compact USB flash drive designed for adding portable storage to laptops, desktops, car audio systems and other compatible devices.",
+      "highlights": [
+        "32GB storage capacity",
+        "USB 3.1 interface",
+        "Ultra-compact design",
+        "Plug-and-play operation",
+        "Suitable for laptops and desktops",
+        "Backward compatibility with USB 2.0"
+      ],
+      "specifications": {
+        "Brand": "SanDisk",
+        "Model": "Ultra Fit SDCZ43",
+        "Capacity": "32GB",
+        "Interface": "USB 3.1",
+        "Connector": "USB Type-A",
+        "Read Speed": "Varies by capacity",
+        "Write Speed": "Varies by capacity and usage",
+        "Body Material": "Plastic",
+        "Compatibility": "Windows, macOS, Linux",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 153,
+    "originalPrice": "₹999",
+    "discount": "30% off",
+    "seller": "SanDisk Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sandisk.com/en-in/",
+    "availability": "in_stock"
+  },
+   {
+    "id": "tablet_001",
+    "name": "Samsung Galaxy Tab S10 Lite 128GB Wi-Fi",
+    "category": "Computers & Accessories",
+    "subcategory": "Android Tablets",
+    "price": "₹36,999",
+    "stock": 25,
+    "thumbnail": "https://static2.evomag.ro/img?extend=white&file=products%2F4253%2F4253350%2Ftableta-samsung-galaxy-tab-s10-68e68cbb8cc9c.jpg&height=600&sign=wQvmpCxCkwv3guIbq3hRFziq9EZWH8sQLu9qHWwvKUA&type=auto&width=600",
+    "images": [
+      "https://static2.evomag.ro/img?extend=white&file=products%2F4253%2F4253350%2Ftableta-samsung-galaxy-tab-s10-68e68cbb8cc9c.jpg&height=600&sign=wQvmpCxCkwv3guIbq3hRFziq9EZWH8sQLu9qHWwvKUA&type=auto&width=600"
+    ],
+    "details": {
+      "description": "Samsung Galaxy Tab S10 Lite is an Android tablet designed for students, entertainment and everyday productivity. It features a large display and S Pen support for handwriting and drawing.",
+      "highlights": [
+        "10.9-inch TFT LCD display",
+        "Samsung Exynos 1380 processor",
+        "6GB RAM",
+        "128GB internal storage",
+        "Expandable storage up to 2TB",
+        "8000mAh battery",
+        "S Pen support"
+      ],
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "Galaxy Tab S10 Lite",
+        "Processor": "Samsung Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Expandable Storage": "Up to 2TB",
+        "Display": "10.9-inch TFT LCD",
+        "Refresh Rate": "90Hz",
+        "Rear Camera": "8MP",
+        "Front Camera": "5MP",
+        "Battery": "8000mAh",
+        "Operating System": "Android",
+        "Connectivity": "Wi-Fi",
+        "Color": "Silver"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 215,
+    "originalPrice": "₹57,999",
+    "discount": "36% off",
+    "seller": "Samsung Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.samsung.com/in/tablets/galaxy-tab-s/galaxy-tab-s10-lite-silver-128gb-sm-x400nzsainu/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "tablet_002",
+    "name": "Xiaomi Redmi Pad 2 128GB Wi-Fi",
+    "category": "Computers & Accessories",
+    "subcategory": "Android Tablets",
+    "price": "₹13,999",
+    "stock": 32,
+    "thumbnail": "https://onbit.pt/media/catalog/product/2/1/212412_e1622203_thumbnail_4096_1.jpg",
+    "images": [
+      "https://onbit.pt/media/catalog/product/2/1/212412_e1622203_thumbnail_4096_1.jpg"
+    ],
+    "details": {
+      "description": "Xiaomi Redmi Pad 2 is an affordable Android tablet suitable for online classes, video streaming, browsing and everyday tasks. It features a high-resolution display and a large battery.",
+      "highlights": [
+        "11-inch 2.5K display",
+        "MediaTek Helio G100 Ultra processor",
+        "4GB RAM",
+        "128GB internal storage",
+        "Expandable storage up to 2TB",
+        "90Hz refresh rate",
+        "9000mAh battery"
+      ],
+      "specifications": {
+        "Brand": "Xiaomi",
+        "Model": "Redmi Pad 2",
+        "Processor": "MediaTek Helio G100 Ultra",
+        "RAM": "4GB",
+        "Storage": "128GB",
+        "Expandable Storage": "Up to 2TB",
+        "Display": "11-inch IPS LCD",
+        "Resolution": "2560 x 1600",
+        "Refresh Rate": "90Hz",
+        "Rear Camera": "8MP",
+        "Front Camera": "5MP",
+        "Battery": "9000mAh",
+        "Operating System": "Android",
+        "Connectivity": "Wi-Fi",
+        "Color": "Graphite Gray"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 325,
+    "originalPrice": "₹17,999",
+    "discount": "22% off",
+    "seller": "Xiaomi Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.mi.com/in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "tablet_003",
+    "name": "OnePlus Pad 3 256GB Wi-Fi",
+    "category": "Computers & Accessories",
+    "subcategory": "Premium Android Tablets",
+    "price": "₹49,999",
+    "stock": 16,
+    "thumbnail": "https://buymobile.co.nz/cdn/shop/files/OneplusPad3wifiStromBluefrontBack_4c978c0f-0274-4d1b-8bec-7daf25d33af4_2048x2048.jpg?v=1782871855",
+    "images": [
+      "https://buymobile.co.nz/cdn/shop/files/OneplusPad3wifiStromBluefrontBack_4c978c0f-0274-4d1b-8bec-7daf25d33af4_2048x2048.jpg?v=1782871855"
+    ],
+    "details": {
+      "description": "OnePlus Pad 3 is a premium Android tablet designed for gaming, multitasking, entertainment and productivity. It features a large high-refresh-rate display and a flagship Snapdragon processor.",
+      "highlights": [
+        "13.2-inch 3.4K display",
+        "Qualcomm Snapdragon 8 Elite processor",
+        "12GB RAM",
+        "256GB UFS 4.0 storage",
+        "144Hz refresh rate",
+        "12140mAh battery",
+        "80W SUPERVOOC charging"
+      ],
+      "specifications": {
+        "Brand": "OnePlus",
+        "Model": "OnePlus Pad 3",
+        "Processor": "Qualcomm Snapdragon 8 Elite",
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Expandable Storage": "Not supported",
+        "Display": "13.2-inch LCD",
+        "Resolution": "3.4K",
+        "Refresh Rate": "144Hz",
+        "Rear Camera": "13MP",
+        "Front Camera": "8MP",
+        "Battery": "12140mAh",
+        "Charging": "80W SUPERVOOC",
+        "Operating System": "OxygenOS",
+        "Connectivity": "Wi-Fi",
+        "Color": "Storm Blue"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 285,
+    "originalPrice": "₹59,999",
+    "discount": "17% off",
+    "seller": "OnePlus Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.oneplus.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "tablet_004",
+    "name": "Lenovo Idea Tab Plus 256GB Wi-Fi",
+    "category": "Computers & Accessories",
+    "subcategory": "Android Tablets",
+    "price": "₹35,999",
+    "stock": 20,
+    "thumbnail": "https://lcdn.altex.ro/media/catalog/product/l/e/lenovo_idea_tab_sand_rose_01_f4ea51dd.jpg",
+    "images": [
+      "https://lcdn.altex.ro/media/catalog/product/l/e/lenovo_idea_tab_sand_rose_01_f4ea51dd.jpg"
+    ],
+    "details": {
+      "description": "Lenovo Idea Tab Plus is a productivity-focused Android tablet suitable for students, note-taking, entertainment and multitasking. It offers a large display and stylus support.",
+      "highlights": [
+        "12.1-inch display",
+        "MediaTek Dimensity 6400 processor",
+        "12GB RAM",
+        "256GB internal storage",
+        "Expandable storage up to 1TB",
+        "90Hz refresh rate",
+        "10200mAh battery",
+        "Lenovo Tab Pen support"
+      ],
+      "specifications": {
+        "Brand": "Lenovo",
+        "Model": "Idea Tab Plus",
+        "Processor": "MediaTek Dimensity 6400",
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Expandable Storage": "Up to 1TB",
+        "Display": "12.1-inch LCD",
+        "Resolution": "2560 x 1600",
+        "Refresh Rate": "90Hz",
+        "Rear Camera": "13MP",
+        "Front Camera": "8MP",
+        "Battery": "10200mAh",
+        "Operating System": "Android",
+        "Connectivity": "Wi-Fi",
+        "Color": "Sand Rose"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 142,
+    "originalPrice": "₹43,999",
+    "discount": "18% off",
+    "seller": "Lenovo Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.lenovo.com/in/en/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "tablet_005",
+    "name": "Apple iPad Air 11-inch M4 Wi-Fi",
+    "category": "Computers & Accessories",
+    "subcategory": "Apple iPads",
+    "price": "₹59,900",
+    "stock": 12,
+    "thumbnail": "https://image.vandenborre.be/WEB/images/products/superzoom/apple_ipad-air11-m4-512g-stl_7627343_1.jpg",
+    "images": [
+      "https://image.vandenborre.be/WEB/images/products/superzoom/apple_ipad-air11-m4-512g-stl_7627343_1.jpg"
+    ],
+    "details": {
+      "description": "Apple iPad Air 11-inch with M4 chip is a powerful tablet for creative work, productivity, gaming and entertainment. It features a Liquid Retina display and supports Apple Pencil.",
+      "highlights": [
+        "11-inch Liquid Retina display",
+        "Apple M4 chip",
+        "12GB unified memory",
+        "128GB internal storage",
+        "Apple Pencil support",
+        "Wi-Fi connectivity",
+        "Up to 10 hours of battery life"
+      ],
+      "specifications": {
+        "Brand": "Apple",
+        "Model": "iPad Air 11-inch M4",
+        "Processor": "Apple M4",
+        "RAM": "12GB Unified Memory",
+        "Storage": "128GB",
+        "Expandable Storage": "Not supported",
+        "Display": "11-inch Liquid Retina IPS",
+        "Resolution": "2360 x 1640",
+        "Refresh Rate": "60Hz",
+        "Rear Camera": "12MP",
+        "Front Camera": "12MP",
+        "Battery": "Up to 10 Hours",
+        "Operating System": "iPadOS",
+        "Connectivity": "Wi-Fi",
+        "Color": "Starlight"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 380,
+    "originalPrice": "₹64,900",
+    "discount": "8% off",
+    "seller": "Apple Store",
+    "sellerRating": 4.9,
+    "returnPolicy": "Standard Apple Return Policy",
+    "productUrl": "https://www.apple.com/in/ipad-air/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "tablet_006",
+    "name": "Samsung Galaxy Tab S12 Ultra 512GB Wi-Fi",
+    "category": "Computers & Accessories",
+    "subcategory": "Premium Android Tablets",
+    "price": "₹1,49,999",
+    "stock": 8,
+    "thumbnail": "https://image.vandenborre.be/WEB/images/products/superzoom/samsung_glx-tab-s12u-512gb-gr_7593953_1.jpg",
+    "images": [
+      "https://image.vandenborre.be/WEB/images/products/superzoom/samsung_glx-tab-s12u-512gb-gr_7593953_1.jpg"
+    ],
+    "details": {
+      "description": "Samsung Galaxy Tab S12 Ultra is a flagship Android tablet designed for professional productivity, creative work, gaming and entertainment. It features a large Dynamic AMOLED 2X display and an included S Pen.",
+      "highlights": [
+        "14.6-inch Dynamic AMOLED 2X display",
+        "MediaTek Dimensity 9500 processor",
+        "12GB RAM",
+        "512GB internal storage",
+        "Expandable storage up to 2TB",
+        "120Hz refresh rate",
+        "11600mAh battery",
+        "S Pen included"
+      ],
+      "specifications": {
+        "Brand": "Samsung",
+        "Model": "Galaxy Tab S12 Ultra",
+        "Processor": "MediaTek Dimensity 9500",
+        "RAM": "12GB",
+        "Storage": "512GB",
+        "Expandable Storage": "Up to 2TB",
+        "Display": "14.6-inch Dynamic AMOLED 2X",
+        "Resolution": "2960 x 1848",
+        "Refresh Rate": "120Hz",
+        "Rear Camera": "13MP + 8MP Ultra Wide",
+        "Front Camera": "12MP Ultra Wide",
+        "Battery": "11600mAh",
+        "Charging": "45W",
+        "Operating System": "Android 17",
+        "Connectivity": "Wi-Fi",
+        "Color": "Gray"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.9,
+    "reviewCount": 175,
+    "originalPrice": "₹1,69,999",
+    "discount": "12% off",
+    "seller": "Samsung Store",
+    "sellerRating": 4.8,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.samsung.com/in/tablets/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_001",
+    "name": "Sony WH-1000XM6 Wireless Noise Cancelling Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Noise Cancelling Headphones",
+    "price": "₹34,990",
+    "stock": 15,
+    "thumbnail": "https://static.wixstatic.com/media/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg/v1/fill/w_2000%2Ch_1125%2Cal_c/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg",
+    "images": [
+      "https://static.wixstatic.com/media/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg/v1/fill/w_2000%2Ch_1125%2Cal_c/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg"
+    ],
+    "details": {
+      "description": "Sony WH-1000XM6 premium wireless headphones offer advanced noise cancellation, detailed sound and comfortable over-ear cushions for travel and everyday listening.",
+      "highlights": [
+        "Advanced active noise cancellation",
+        "Bluetooth wireless connectivity",
+        "LDAC high-resolution audio support",
+        "Multipoint connection",
+        "Up to 30 hours battery life with ANC",
+        "Foldable travel-friendly design"
+      ],
+      "specifications": {
+        "Brand": "Sony",
+        "Model": "WH-1000XM6",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth",
+        "Driver Size": "30mm",
+        "Noise Cancellation": "Active Noise Cancellation",
+        "Battery Life": "Up to 30 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 325,
+    "originalPrice": "₹39,990",
+    "discount": "13% off",
+    "seller": "Sony Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sony.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_002",
+    "name": "Bose QuietComfort Ultra Headphones 2nd Gen",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Noise Cancelling Headphones",
+    "price": "₹34,900",
+    "stock": 12,
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/bpL97bVHdER3m3QjKogUQ8-1920-80.jpg",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/bpL97bVHdER3m3QjKogUQ8-1920-80.jpg"
+    ],
+    "details": {
+      "description": "Bose QuietComfort Ultra headphones deliver immersive audio and premium noise cancellation with comfortable ear cushions for travel and entertainment.",
+      "highlights": [
+        "Active noise cancellation",
+        "Immersive Audio technology",
+        "Bluetooth wireless connectivity",
+        "Customizable listening modes",
+        "USB-C charging",
+        "Premium over-ear design"
+      ],
+      "specifications": {
+        "Brand": "Bose",
+        "Model": "QuietComfort Ultra 2nd Gen",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth",
+        "Noise Cancellation": "Active Noise Cancellation",
+        "Audio Technology": "Bose Immersive Audio",
+        "Battery Life": "Up to 30 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 218,
+    "originalPrice": "₹39,900",
+    "discount": "13% off",
+    "seller": "Bose Store",
+    "sellerRating": 4.8,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.bose.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_003",
+    "name": "JBL Tune 770NC Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Noise Cancelling Headphones",
+    "price": "₹5,499",
+    "stock": 28,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0065/4432/6771/files/Screen_Shot_2024-03-21_at_3.48.24_PM.png?v=1711051007",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0065/4432/6771/files/Screen_Shot_2024-03-21_at_3.48.24_PM.png?v=1711051007"
+    ],
+    "details": {
+      "description": "JBL Tune 770NC wireless headphones provide powerful bass, adaptive noise cancellation and long battery life for music, movies and everyday listening.",
+      "highlights": [
+        "Adaptive noise cancelling",
+        "JBL Pure Bass Sound",
+        "Bluetooth wireless connectivity",
+        "Up to 70 hours battery life with ANC off",
+        "Multipoint connection",
+        "Foldable design"
+      ],
+      "specifications": {
+        "Brand": "JBL",
+        "Model": "Tune 770NC",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth 5.3",
+        "Driver Size": "40mm",
+        "Noise Cancellation": "Adaptive ANC",
+        "Battery Life": "Up to 70 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Blue"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 286,
+    "originalPrice": "₹8,999",
+    "discount": "39% off",
+    "seller": "JBL Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://in.jbl.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_004",
+    "name": "Sennheiser Momentum 4 Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Premium Wireless Headphones",
+    "price": "₹24,990",
+    "stock": 14,
+    "thumbnail": "https://cdn.techfi.nl/techfi/images/fetch/dpr_1/https%3A%2F%2Ftechfi.nl%2Fassets%2Fupload%2Fimg%2Fpublic%2Foriginal%2Fsennheiser-momentum-4-wireless-5.jpg",
+    "images": [
+      "https://cdn.techfi.nl/techfi/images/fetch/dpr_1/https%3A%2F%2Ftechfi.nl%2Fassets%2Fupload%2Fimg%2Fpublic%2Foriginal%2Fsennheiser-momentum-4-wireless-5.jpg"
+    ],
+    "details": {
+      "description": "Sennheiser Momentum 4 Wireless headphones combine detailed sound, adaptive noise cancellation and an extended battery life for premium everyday listening.",
+      "highlights": [
+        "42mm dynamic drivers",
+        "Adaptive noise cancellation",
+        "Bluetooth wireless connectivity",
+        "Up to 60 hours battery life",
+        "Customizable sound through companion app",
+        "Comfortable over-ear cushions"
+      ],
+      "specifications": {
+        "Brand": "Sennheiser",
+        "Model": "Momentum 4 Wireless",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth 5.2",
+        "Driver Size": "42mm",
+        "Noise Cancellation": "Adaptive ANC",
+        "Battery Life": "Up to 60 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 194,
+    "originalPrice": "₹29,990",
+    "discount": "17% off",
+    "seller": "Sennheiser Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sennheiser-hearing.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_005",
+    "name": "Apple AirPods Max 2",
+    "category": "Audio & Accessories",
+    "subcategory": "Premium Wireless Headphones",
+    "price": "₹59,900",
+    "stock": 9,
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/bpL97bVHdER3m3QjKogUQ8-1920-80.jpg",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/bpL97bVHdER3m3QjKogUQ8-1920-80.jpg"
+    ],
+    "details": {
+      "description": "Apple AirPods Max 2 are premium over-ear wireless headphones designed for immersive listening, active noise cancellation and seamless integration with Apple devices.",
+      "highlights": [
+        "Apple-designed audio technology",
+        "Active noise cancellation",
+        "Transparency mode",
+        "Spatial Audio support",
+        "Digital Crown controls",
+        "USB-C charging"
+      ],
+      "specifications": {
+        "Brand": "Apple",
+        "Model": "AirPods Max 2",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth",
+        "Noise Cancellation": "Active Noise Cancellation",
+        "Audio Technology": "Spatial Audio",
+        "Battery Life": "Up to 20 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Blue"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 340,
+    "originalPrice": "₹64,900",
+    "discount": "8% off",
+    "seller": "Apple Store",
+    "sellerRating": 4.9,
+    "returnPolicy": "Standard Apple Return Policy",
+    "productUrl": "https://www.apple.com/in/airpods-max/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_006",
+    "name": "Sony WH-CH520 Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless On-Ear Headphones",
+    "price": "₹3,490",
+    "stock": 40,
+    "thumbnail": "https://media.licdn.com/dms/image/v2/D5612AQGNfTz8w8gcwA/article-cover_image-shrink_600_2000/B56Z76OjeIGoAQ-/0/1782314580107?e=2147483647&t=U-7C1pJEG7psaUUBQnONlPigahYurY6TXLbkBq0yass&v=beta",
+    "images": [
+      "https://media.licdn.com/dms/image/v2/D5612AQGNfTz8w8gcwA/article-cover_image-shrink_600_2000/B56Z76OjeIGoAQ-/0/1782314580107?e=2147483647&t=U-7C1pJEG7psaUUBQnONlPigahYurY6TXLbkBq0yass&v=beta"
+    ],
+    "details": {
+      "description": "Sony WH-CH520 is a lightweight wireless on-ear headphone designed for everyday music, calls and entertainment with a long-lasting battery.",
+      "highlights": [
+        "Lightweight on-ear design",
+        "Bluetooth wireless connectivity",
+        "Up to 50 hours battery life",
+        "DSEE sound enhancement",
+        "Multipoint connection",
+        "Built-in microphone"
+      ],
+      "specifications": {
+        "Brand": "Sony",
+        "Model": "WH-CH520",
+        "Type": "On-Ear",
+        "Connectivity": "Bluetooth 5.2",
+        "Driver Size": "30mm",
+        "Noise Cancellation": "Passive Noise Isolation",
+        "Battery Life": "Up to 50 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 415,
+    "originalPrice": "₹4,990",
+    "discount": "30% off",
+    "seller": "Sony Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sony.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_007",
+    "name": "JBL Tune 520BT Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless On-Ear Headphones",
+    "price": "₹3,499",
+    "stock": 34,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0065/4432/6771/files/Screen_Shot_2024-03-21_at_3.48.24_PM.png?v=1711051007",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0065/4432/6771/files/Screen_Shot_2024-03-21_at_3.48.24_PM.png?v=1711051007"
+    ],
+    "details": {
+      "description": "JBL Tune 520BT wireless headphones feature JBL Pure Bass Sound, Bluetooth connectivity and a foldable design for everyday use.",
+      "highlights": [
+        "JBL Pure Bass Sound",
+        "Bluetooth 5.3 connectivity",
+        "Up to 57 hours battery life",
+        "Quick charging support",
+        "Multipoint connection",
+        "Foldable lightweight design"
+      ],
+      "specifications": {
+        "Brand": "JBL",
+        "Model": "Tune 520BT",
+        "Type": "On-Ear",
+        "Connectivity": "Bluetooth 5.3",
+        "Driver Size": "33mm",
+        "Noise Cancellation": "No ANC",
+        "Battery Life": "Up to 57 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "White"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 362,
+    "originalPrice": "₹4,999",
+    "discount": "30% off",
+    "seller": "JBL Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://in.jbl.com/TUNE520BT.html",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_008",
+    "name": "Audio-Technica ATH-M50x Professional Monitor Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wired Studio Headphones",
+    "price": "₹12,999",
+    "stock": 18,
+    "thumbnail": "https://www.talkbass.com/attachments/c0d3b65c-49ac-474a-a3a5-dc3fb734ae96-jpeg.3499900/",
+    "images": [
+      "https://www.talkbass.com/attachments/c0d3b65c-49ac-474a-a3a5-dc3fb734ae96-jpeg.3499900/"
+    ],
+    "details": {
+      "description": "Audio-Technica ATH-M50x professional monitor headphones deliver detailed audio reproduction for studio monitoring, music production and everyday listening.",
+      "highlights": [
+        "45mm large-aperture drivers",
+        "Closed-back circumaural design",
+        "Detachable cable design",
+        "Collapsible construction",
+        "Professional studio monitoring",
+        "Comfortable ear cushions"
+      ],
+      "specifications": {
+        "Brand": "Audio-Technica",
+        "Model": "ATH-M50x",
+        "Type": "Over-Ear",
+        "Connectivity": "Wired",
+        "Driver Size": "45mm",
+        "Impedance": "38 Ohms",
+        "Frequency Response": "15Hz - 28kHz",
+        "Cable": "Detachable",
+        "Connector": "3.5mm",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 287,
+    "originalPrice": "₹15,999",
+    "discount": "19% off",
+    "seller": "Audio-Technica Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.audio-technica.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_009",
+    "name": "Beyerdynamic DT 770 PRO 80 Ohm Studio Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wired Studio Headphones",
+    "price": "₹13,990",
+    "stock": 13,
+    "thumbnail": "https://www.talkbass.com/attachments/c0d3b65c-49ac-474a-a3a5-dc3fb734ae96-jpeg.3499900/",
+    "images": [
+      "https://www.talkbass.com/attachments/c0d3b65c-49ac-474a-a3a5-dc3fb734ae96-jpeg.3499900/"
+    ],
+    "details": {
+      "description": "Beyerdynamic DT 770 PRO is a closed-back studio headphone designed for monitoring, recording and detailed audio listening.",
+      "highlights": [
+        "Closed-back studio design",
+        "80 Ohm impedance",
+        "Detailed sound reproduction",
+        "Soft velour ear pads",
+        "Durable construction",
+        "Single-sided cable"
+      ],
+      "specifications": {
+        "Brand": "Beyerdynamic",
+        "Model": "DT 770 PRO",
+        "Type": "Over-Ear",
+        "Connectivity": "Wired",
+        "Driver Size": "45mm",
+        "Impedance": "80 Ohms",
+        "Frequency Response": "5Hz - 35kHz",
+        "Cable": "Fixed Cable",
+        "Connector": "3.5mm with 6.3mm Adapter",
+        "Color": "Black and Gray"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 192,
+    "originalPrice": "₹16,990",
+    "discount": "18% off",
+    "seller": "Beyerdynamic Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.beyerdynamic.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_010",
+    "name": "Logitech G Pro X 2 Lightspeed Gaming Headset",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Gaming Headphones",
+    "price": "₹22,990",
+    "stock": 11,
+    "thumbnail": "https://down-th.img.susercontent.com/file/th-11134207-7r98z-lqzz1ncuukj279",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98z-lqzz1ncuukj279"
+    ],
+    "details": {
+      "description": "Logitech G Pro X 2 Lightspeed is a wireless gaming headset designed for competitive gaming with detailed audio, low-latency connectivity and a detachable microphone.",
+      "highlights": [
+        "50mm graphene audio drivers",
+        "Lightspeed wireless technology",
+        "Bluetooth connectivity",
+        "Up to 50 hours battery life",
+        "Detachable boom microphone",
+        "DTS Headphone:X 2.0 support"
+      ],
+      "specifications": {
+        "Brand": "Logitech G",
+        "Model": "G Pro X 2 Lightspeed",
+        "Type": "Over-Ear Gaming Headset",
+        "Connectivity": "Lightspeed Wireless, Bluetooth, 3.5mm",
+        "Driver Size": "50mm",
+        "Microphone": "Detachable Boom Microphone",
+        "Battery Life": "Up to 50 Hours",
+        "Surround Sound": "DTS Headphone:X 2.0",
+        "Compatibility": "PC, PlayStation, Bluetooth Devices",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 166,
+    "originalPrice": "₹27,995",
+    "discount": "18% off",
+    "seller": "Logitech Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.logitechg.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_011",
+    "name": "HyperX Cloud III Wired Gaming Headset",
+    "category": "Audio & Accessories",
+    "subcategory": "Wired Gaming Headphones",
+    "price": "₹7,990",
+    "stock": 21,
+    "thumbnail": "https://staticg.sportskeeda.com/editor/2026/07/e746d-17846216904701-1920.jpg",
+    "images": [
+      "https://staticg.sportskeeda.com/editor/2026/07/e746d-17846216904701-1920.jpg"
+    ],
+    "details": {
+      "description": "HyperX Cloud III is a wired gaming headset designed for comfortable long gaming sessions with 3D audio support and a detachable microphone.",
+      "highlights": [
+        "53mm angled drivers",
+        "DTS Headphone:X spatial audio",
+        "Detachable microphone",
+        "Memory foam ear cushions",
+        "Durable aluminum frame",
+        "USB and 3.5mm connectivity"
+      ],
+      "specifications": {
+        "Brand": "HyperX",
+        "Model": "Cloud III",
+        "Type": "Over-Ear Gaming Headset",
+        "Connectivity": "Wired USB and 3.5mm",
+        "Driver Size": "53mm",
+        "Microphone": "Detachable",
+        "Surround Sound": "DTS Headphone:X",
+        "Cable": "Wired",
+        "Compatibility": "PC, PlayStation, Xbox, Nintendo Switch",
+        "Color": "Black and Red"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 203,
+    "originalPrice": "₹9,999",
+    "discount": "20% off",
+    "seller": "HyperX Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://hyperx.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_012",
+    "name": "Razer BlackShark V2 Pro Wireless Gaming Headset",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Gaming Headphones",
+    "price": "₹18,999",
+    "stock": 10,
+    "thumbnail": "https://staticg.sportskeeda.com/editor/2026/07/e746d-17846216904701-1920.jpg",
+    "images": [
+      "https://staticg.sportskeeda.com/editor/2026/07/e746d-17846216904701-1920.jpg"
+    ],
+    "details": {
+      "description": "Razer BlackShark V2 Pro is a wireless gaming headset designed for immersive gaming audio, clear team communication and long gaming sessions.",
+      "highlights": [
+        "50mm TriForce Titanium drivers",
+        "Super wideband microphone",
+        "2.4GHz wireless connectivity",
+        "Bluetooth connectivity",
+        "THX Spatial Audio support",
+        "Comfortable memory foam cushions"
+      ],
+      "specifications": {
+        "Brand": "Razer",
+        "Model": "BlackShark V2 Pro",
+        "Type": "Over-Ear Gaming Headset",
+        "Connectivity": "2.4GHz Wireless and Bluetooth",
+        "Driver Size": "50mm",
+        "Microphone": "Detachable Super Wideband Mic",
+        "Surround Sound": "THX Spatial Audio",
+        "Battery Life": "Up to 70 Hours",
+        "Compatibility": "PC, PlayStation",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 149,
+    "originalPrice": "₹24,999",
+    "discount": "24% off",
+    "seller": "Razer Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.razer.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_013",
+    "name": "Skullcandy Crusher Evo Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Bass Headphones",
+    "price": "₹10,999",
+    "stock": 19,
+    "thumbnail": "https://static.wixstatic.com/media/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg/v1/fill/w_2000%2Ch_1125%2Cal_c/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg",
+    "images": [
+      "https://static.wixstatic.com/media/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg/v1/fill/w_2000%2Ch_1125%2Cal_c/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg"
+    ],
+    "details": {
+      "description": "Skullcandy Crusher Evo wireless headphones feature adjustable sensory bass, powerful audio and a comfortable over-ear design for music lovers.",
+      "highlights": [
+        "Adjustable sensory bass",
+        "Bluetooth wireless connectivity",
+        "Personal Sound customization",
+        "Up to 40 hours battery life",
+        "Rapid charging support",
+        "Foldable design"
+      ],
+      "specifications": {
+        "Brand": "Skullcandy",
+        "Model": "Crusher Evo",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth 5.0",
+        "Driver Size": "40mm",
+        "Bass Technology": "Adjustable Sensory Bass",
+        "Battery Life": "Up to 40 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 178,
+    "originalPrice": "₹14,999",
+    "discount": "27% off",
+    "seller": "Skullcandy Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.skullcandy.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_014",
+    "name": "Anker Soundcore Space One Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Noise Cancelling Headphones",
+    "price": "₹7,499",
+    "stock": 23,
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/bpL97bVHdER3m3QjKogUQ8-1920-80.jpg",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/bpL97bVHdER3m3QjKogUQ8-1920-80.jpg"
+    ],
+    "details": {
+      "description": "Soundcore Space One headphones offer adaptive noise cancellation, customizable sound and long battery life for travel, work and entertainment.",
+      "highlights": [
+        "Adaptive active noise cancellation",
+        "40mm drivers",
+        "Hi-Res audio support",
+        "LDAC support",
+        "Up to 55 hours battery life",
+        "Multipoint Bluetooth connectivity"
+      ],
+      "specifications": {
+        "Brand": "Soundcore by Anker",
+        "Model": "Space One",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth 5.3",
+        "Driver Size": "40mm",
+        "Noise Cancellation": "Adaptive ANC",
+        "Battery Life": "Up to 55 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 225,
+    "originalPrice": "₹9,999",
+    "discount": "25% off",
+    "seller": "Soundcore Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.soundcore.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_015",
+    "name": "Philips SHP9600 Open-Back Wired Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wired Audiophile Headphones",
+    "price": "₹8,499",
+    "stock": 16,
+    "thumbnail": "https://i.rtings.com/assets/pages/D6GSKhoO/best-ath-20230426-medium.jpg",
+    "images": [
+      "https://i.rtings.com/assets/pages/D6GSKhoO/best-ath-20230426-medium.jpg"
+    ],
+    "details": {
+      "description": "Philips SHP9600 open-back headphones are designed for comfortable home listening with a spacious sound presentation and detailed audio reproduction.",
+      "highlights": [
+        "Open-back acoustic design",
+        "50mm neodymium drivers",
+        "Over-ear cushioned ear pads",
+        "Detachable cable",
+        "Wide soundstage",
+        "Comfortable lightweight construction"
+      ],
+      "specifications": {
+        "Brand": "Philips",
+        "Model": "SHP9600",
+        "Type": "Over-Ear Open-Back",
+        "Connectivity": "Wired",
+        "Driver Size": "50mm",
+        "Impedance": "32 Ohms",
+        "Frequency Response": "12Hz - 35kHz",
+        "Cable": "Detachable",
+        "Connector": "3.5mm",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 115,
+    "originalPrice": "₹10,999",
+    "discount": "23% off",
+    "seller": "Philips Store",
+    "sellerRating": 4.4,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.philips.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_016",
+    "name": "JBL Live 770NC Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Noise Cancelling Headphones",
+    "price": "₹11,999",
+    "stock": 17,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0065/4432/6771/files/Screen_Shot_2024-03-21_at_3.48.24_PM.png?v=1711051007",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0065/4432/6771/files/Screen_Shot_2024-03-21_at_3.48.24_PM.png?v=1711051007"
+    ],
+    "details": {
+      "description": "JBL Live 770NC wireless headphones feature True Adaptive Noise Cancelling, JBL Signature Sound and a comfortable fabric headband.",
+      "highlights": [
+        "True Adaptive Noise Cancelling",
+        "JBL Signature Sound",
+        "Bluetooth 5.3 connectivity",
+        "Up to 65 hours battery life",
+        "Multipoint connection",
+        "Smart Ambient technology"
+      ],
+      "specifications": {
+        "Brand": "JBL",
+        "Model": "Live 770NC",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth 5.3",
+        "Driver Size": "40mm",
+        "Noise Cancellation": "True Adaptive ANC",
+        "Battery Life": "Up to 65 Hours",
+        "Charging": "USB Type-C",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 158,
+    "originalPrice": "₹14,999",
+    "discount": "20% off",
+    "seller": "JBL Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://in.jbl.com/LIVE770NC.html",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_017",
+    "name": "OneOdio Pro-50 Wired Studio Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wired Studio Headphones",
+    "price": "₹3,499",
+    "stock": 26,
+    "thumbnail": "https://www.talkbass.com/attachments/c0d3b65c-49ac-474a-a3a5-dc3fb734ae96-jpeg.3499900/",
+    "images": [
+      "https://www.talkbass.com/attachments/c0d3b65c-49ac-474a-a3a5-dc3fb734ae96-jpeg.3499900/"
+    ],
+    "details": {
+      "description": "OneOdio Pro-50 wired studio headphones are designed for music monitoring, DJ practice and everyday audio listening with large drivers and comfortable ear cushions.",
+      "highlights": [
+        "50mm neodymium drivers",
+        "Closed-back design",
+        "Share audio feature",
+        "Foldable construction",
+        "Over-ear cushions",
+        "Detachable audio cables"
+      ],
+      "specifications": {
+        "Brand": "OneOdio",
+        "Model": "Pro-50",
+        "Type": "Over-Ear",
+        "Connectivity": "Wired",
+        "Driver Size": "50mm",
+        "Impedance": "32 Ohms",
+        "Frequency Response": "20Hz - 40kHz",
+        "Cable": "Detachable",
+        "Connector": "3.5mm and 6.35mm",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.3,
+    "reviewCount": 132,
+    "originalPrice": "₹4,999",
+    "discount": "30% off",
+    "seller": "OneOdio Store",
+    "sellerRating": 4.4,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.oneodio.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_018",
+    "name": "boAt Rockerz 550 Wireless Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wireless Over-Ear Headphones",
+    "price": "₹1,799",
+    "stock": 38,
+    "thumbnail": "https://static.wixstatic.com/media/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg/v1/fill/w_2000%2Ch_1125%2Cal_c/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg",
+    "images": [
+      "https://static.wixstatic.com/media/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg/v1/fill/w_2000%2Ch_1125%2Cal_c/c24f5b_0e54303cfa3b482fb27d20c25681982c~mv2.jpg"
+    ],
+    "details": {
+      "description": "boAt Rockerz 550 wireless headphones are designed for everyday entertainment with powerful sound, cushioned ear cups and Bluetooth connectivity.",
+      "highlights": [
+        "50mm dynamic drivers",
+        "Bluetooth wireless connectivity",
+        "Up to 20 hours playback",
+        "Soft cushioned ear cups",
+        "Integrated microphone",
+        "AUX wired playback support"
+      ],
+      "specifications": {
+        "Brand": "boAt",
+        "Model": "Rockerz 550",
+        "Type": "Over-Ear",
+        "Connectivity": "Bluetooth 5.0 and AUX",
+        "Driver Size": "50mm",
+        "Noise Cancellation": "Passive Noise Isolation",
+        "Battery Life": "Up to 20 Hours",
+        "Charging": "USB",
+        "Microphone": "Built-in",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.2,
+    "reviewCount": 465,
+    "originalPrice": "₹4,999",
+    "discount": "64% off",
+    "seller": "boAt Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.boat-lifestyle.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_019",
+    "name": "JBL Quantum 100 Wired Gaming Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wired Gaming Headphones",
+    "price": "₹1,999",
+    "stock": 31,
+    "thumbnail": "https://staticg.sportskeeda.com/editor/2026/07/e746d-17846216904701-1920.jpg",
+    "images": [
+      "https://staticg.sportskeeda.com/editor/2026/07/e746d-17846216904701-1920.jpg"
+    ],
+    "details": {
+      "description": "JBL Quantum 100 wired gaming headphones provide immersive gaming sound and a detachable boom microphone for multiplayer communication.",
+      "highlights": [
+        "JBL Quantum Sound Signature",
+        "40mm dynamic drivers",
+        "Detachable boom microphone",
+        "Memory foam ear cushions",
+        "Lightweight over-ear design",
+        "3.5mm wired connectivity"
+      ],
+      "specifications": {
+        "Brand": "JBL",
+        "Model": "Quantum 100",
+        "Type": "Over-Ear Gaming Headset",
+        "Connectivity": "Wired 3.5mm",
+        "Driver Size": "40mm",
+        "Microphone": "Detachable Boom Mic",
+        "Surround Sound": "JBL Quantum Sound",
+        "Cable": "Wired",
+        "Compatibility": "PC, PlayStation, Xbox, Nintendo Switch, Mobile",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.3,
+    "reviewCount": 207,
+    "originalPrice": "₹2,999",
+    "discount": "33% off",
+    "seller": "JBL Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://in.jbl.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "headphone_020",
+    "name": "Sennheiser HD 560S Open-Back Headphones",
+    "category": "Audio & Accessories",
+    "subcategory": "Wired Audiophile Headphones",
+    "price": "₹14,990",
+    "stock": 8,
+    "thumbnail": "https://cdn.techfi.nl/techfi/images/fetch/dpr_1/https%3A%2F%2Ftechfi.nl%2Fassets%2Fupload%2Fimg%2Fpublic%2Foriginal%2Fsennheiser-momentum-4-wireless-5.jpg",
+    "images": [
+      "https://cdn.techfi.nl/techfi/images/fetch/dpr_1/https%3A%2F%2Ftechfi.nl%2Fassets%2Fupload%2Fimg%2Fpublic%2Foriginal%2Fsennheiser-momentum-4-wireless-5.jpg"
+    ],
+    "details": {
+      "description": "Sennheiser HD 560S open-back headphones are designed for accurate audio reproduction, critical listening and home studio use.",
+      "highlights": [
+        "Open-back acoustic design",
+        "Dynamic 38mm drivers",
+        "Natural and detailed sound",
+        "Lightweight construction",
+        "Detachable cable",
+        "Comfortable over-ear fit"
+      ],
+      "specifications": {
+        "Brand": "Sennheiser",
+        "Model": "HD 560S",
+        "Type": "Over-Ear Open-Back",
+        "Connectivity": "Wired",
+        "Driver Size": "38mm",
+        "Impedance": "120 Ohms",
+        "Frequency Response": "6Hz - 38kHz",
+        "Cable": "Detachable",
+        "Connector": "3.5mm with 6.3mm Adapter",
+        "Color": "Black"
+      },
+      "compatibleWith": null
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 121,
+    "originalPrice": "₹18,990",
+    "discount": "21% off",
+    "seller": "Sennheiser Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 Days Replacement Policy",
+    "productUrl": "https://www.sennheiser-hearing.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK001",
+    "name": "JBL Charge 6 Portable Bluetooth Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 17999,
+    "stock": 35,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Bose%20SoundLink%20Flex%20Bluetooth%C2%AE%20Speaker%20%28white%29.jpeg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bose%20SoundLink%20Flex%20Bluetooth%C2%AE%20Speaker%20%28white%29.jpeg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bose%20Bluetooth%20Speaker.jpg"
+    ],
+    "details": {
+      "description": "Portable wireless speaker designed for indoor and outdoor music playback.",
+      "highlights": ["Portable design", "Bluetooth connectivity", "Powerful sound", "Rechargeable battery"],
+      "specifications": {
+        "brand": "JBL",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 24 hours",
+        "waterResistance": "IP68",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled smartphones, tablets and laptops"
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 284,
+    "originalPrice": 21999,
+    "discount": "18%",
+    "seller": "Audio World",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.jbl.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK002",
+    "name": "JBL Flip 7 Portable Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 11999,
+    "stock": 42,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/SONY%20SRS-XB2%2001.JPG",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/SONY%20SRS-XB2%2001.JPG",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20SRS-X5%2020140303.jpg"
+    ],
+    "details": {
+      "description": "Compact portable Bluetooth speaker for everyday music listening.",
+      "highlights": ["Compact body", "Wireless playback", "Portable strap design", "Outdoor-friendly build"],
+      "specifications": {
+        "brand": "JBL",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 16 hours",
+        "waterResistance": "IP68",
+        "color": "Blue"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 196,
+    "originalPrice": 14999,
+    "discount": "20%",
+    "seller": "TechZone",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.jbl.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK003",
+    "name": "JBL Xtreme 4 Portable Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 27999,
+    "stock": 18,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Bluetooth%20speaker%2001.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bluetooth%20speaker%2001.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bluetooth%20Speakers%20%2841561673055%29.jpg"
+    ],
+    "details": {
+      "description": "Large portable wireless speaker designed for parties and outdoor entertainment.",
+      "highlights": ["High-output audio", "Portable carrying strap", "Wireless connectivity", "Long battery life"],
+      "specifications": {
+        "brand": "JBL",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 24 hours",
+        "waterResistance": "IP67",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled smartphones and tablets"
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 312,
+    "originalPrice": 32999,
+    "discount": "15%",
+    "seller": "Sound House",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.jbl.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK004",
+    "name": "Bose SoundLink Flex Bluetooth Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 14900,
+    "stock": 25,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Ancoon%20S01%20Bluetooth%20Speaker.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Ancoon%20S01%20Bluetooth%20Speaker.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Black%20portable%20speaker.jpg"
+    ],
+    "details": {
+      "description": "Compact wireless speaker suitable for travel, home and outdoor listening.",
+      "highlights": ["Compact construction", "Clear audio", "Wireless pairing", "Portable design"],
+      "specifications": {
+        "brand": "Bose",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 12 hours",
+        "waterResistance": "IP67",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 245,
+    "originalPrice": 16900,
+    "discount": "12%",
+    "seller": "Premium Audio Store",
+    "sellerRating": 4.8,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.bose.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK005",
+    "name": "Sony ULT Field 1 Wireless Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 8990,
+    "stock": 31,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Sound%20Blaster%20FRee%20Black.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Sound%20Blaster%20FRee%20Black.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/HP%20Roar%20Wireless%20Speaker.jpg"
+    ],
+    "details": {
+      "description": "Small wireless speaker designed for portable music playback.",
+      "highlights": ["Compact size", "Wireless connection", "Portable construction", "Water-resistant design"],
+      "specifications": {
+        "brand": "Sony",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 12 hours",
+        "waterResistance": "IP67",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 178,
+    "originalPrice": 10990,
+    "discount": "18%",
+    "seller": "Sony Electronics Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.sony.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK006",
+    "name": "Marshall Emberton III Bluetooth Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 16999,
+    "stock": 16,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Mix%20Speaker.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Mix%20Speaker.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Solo%20Speaker.jpg"
+    ],
+    "details": {
+      "description": "Compact wireless speaker with a classic-inspired portable design.",
+      "highlights": ["Stereo sound", "Portable construction", "Bluetooth connectivity", "Dust and water resistance"],
+      "specifications": {
+        "brand": "Marshall",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 32 hours",
+        "waterResistance": "IP67",
+        "color": "Black and Brass"
+      },
+      "compatibleWith": "Bluetooth-enabled smartphones, tablets and computers"
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 221,
+    "originalPrice": 19999,
+    "discount": "15%",
+    "seller": "Marshall Audio Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.marshall.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK007",
+    "name": "Ultimate Ears Wonderboom 4",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 8999,
+    "stock": 28,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Roundo.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Roundo.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/KooBluetoothspeaker.jpg"
+    ],
+    "details": {
+      "description": "Small waterproof wireless speaker designed for outdoor activities.",
+      "highlights": ["360-degree sound", "Portable body", "Outdoor mode", "Water-resistant design"],
+      "specifications": {
+        "brand": "Ultimate Ears",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 14 hours",
+        "waterResistance": "IP67",
+        "color": "Blue"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 143,
+    "originalPrice": 10999,
+    "discount": "18%",
+    "seller": "Gadget Point",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.ultimateears.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK008",
+    "name": "Anker Soundcore Motion X600",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 12999,
+    "stock": 21,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Elite%20Wireless%20Speaker.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Elite%20Wireless%20Speaker.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Elite%20Wireless%20Speaker%20%282%29.jpg"
+    ],
+    "details": {
+      "description": "Wireless speaker designed to deliver immersive audio in a portable format.",
+      "highlights": ["Wireless audio", "Portable handle", "High-resolution audio support", "Customizable sound"],
+      "specifications": {
+        "brand": "Soundcore",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 12 hours",
+        "waterResistance": "IPX7",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 117,
+    "originalPrice": 15999,
+    "discount": "19%",
+    "seller": "Anker Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.soundcore.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK009",
+    "name": "Sony SRS-XB100 Portable Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 3990,
+    "stock": 54,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Genetic%20Chinese%20Speaker.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Genetic%20Chinese%20Speaker.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Genius-SP-906BT.jpg"
+    ],
+    "details": {
+      "description": "Compact wireless speaker for personal listening and everyday portability.",
+      "highlights": ["Lightweight design", "Portable strap", "Wireless playback", "Long battery life"],
+      "specifications": {
+        "brand": "Sony",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 16 hours",
+        "waterResistance": "IP67",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 201,
+    "originalPrice": 4990,
+    "discount": "20%",
+    "seller": "Sony Electronics Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.sony.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK010",
+    "name": "Tribit StormBox Blast 2",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 18999,
+    "stock": 12,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/ION%20Block%20Rocker%20Bluetooth%20Speaker.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/ION%20Block%20Rocker%20Bluetooth%20Speaker.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/ION%20Audio%20Pathfinder%20Go%20Speaker.jpg"
+    ],
+    "details": {
+      "description": "Large portable speaker designed for parties and outdoor gatherings.",
+      "highlights": ["High-volume output", "Portable handle", "Wireless connectivity", "Party lighting"],
+      "specifications": {
+        "brand": "Tribit",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 30 hours",
+        "waterResistance": "IPX7",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 89,
+    "originalPrice": 22999,
+    "discount": "17%",
+    "seller": "Audio World",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://tribit.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK011",
+    "name": "JBL Go 4 Portable Bluetooth Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 3999,
+    "stock": 65,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Loa%20Bluetooth%20m%C3%A0u%20cam.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Loa%20Bluetooth%20m%C3%A0u%20cam.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Lp%20v98%20Bluetooth%20speaker.jpg"
+    ],
+    "details": {
+      "description": "Small portable Bluetooth speaker for casual listening and travel.",
+      "highlights": ["Pocket-friendly size", "Portable loop", "Wireless connectivity", "Water and dust resistance"],
+      "specifications": {
+        "brand": "JBL",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 7 hours",
+        "waterResistance": "IP67",
+        "color": "Orange"
+      },
+      "compatibleWith": "Bluetooth-enabled smartphones and tablets"
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 267,
+    "originalPrice": 4999,
+    "discount": "20%",
+    "seller": "TechZone",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.jbl.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK012",
+    "name": "Bose SoundLink Max Portable Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 34900,
+    "stock": 9,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Brionvega%20WearIT%20TS217%20bluetooth%20speaker.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Brionvega%20WearIT%20TS217%20bluetooth%20speaker.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/QFX%20R-40%20Portable%20Bluetooth%20Speaker.jpg"
+    ],
+    "details": {
+      "description": "Premium portable wireless speaker designed for powerful sound at home or outdoors.",
+      "highlights": ["Premium audio", "Portable handle", "Wireless playback", "Rugged construction"],
+      "specifications": {
+        "brand": "Bose",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 20 hours",
+        "waterResistance": "IPX4",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.8,
+    "reviewCount": 76,
+    "originalPrice": 39900,
+    "discount": "13%",
+    "seller": "Premium Audio Store",
+    "sellerRating": 4.8,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.bose.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK013",
+    "name": "Marshall Kilburn II Portable Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 24999,
+    "stock": 14,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Teac%20Freestyler%20Junior%20PBT500B%20boombox%201666554.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Teac%20Freestyler%20Junior%20PBT500B%20boombox%201666554.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Philips%20OST%20900%20Bluetooth-Sound-System%202015.jpg"
+    ],
+    "details": {
+      "description": "Portable wireless speaker with a retro-inspired design for home and travel.",
+      "highlights": ["Classic styling", "Portable carrying strap", "Wireless connectivity", "Multi-directional sound"],
+      "specifications": {
+        "brand": "Marshall",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 20 hours",
+        "waterResistance": "IPX2",
+        "color": "Black and Brass"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 154,
+    "originalPrice": 29999,
+    "discount": "17%",
+    "seller": "Marshall Audio Store",
+    "sellerRating": 4.7,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.marshall.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK014",
+    "name": "Soundcore Select 4 Go",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 2499,
+    "stock": 48,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Shower%20speaker.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shower%20speaker.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Vodool%20Bike%20Mount%20Bluetooth%20Speaker%20and%20Headlight.png"
+    ],
+    "details": {
+      "description": "Compact wireless speaker for travel, outdoor use and everyday listening.",
+      "highlights": ["Lightweight construction", "Portable strap", "Wireless playback", "Waterproof design"],
+      "specifications": {
+        "brand": "Soundcore",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 20 hours",
+        "waterResistance": "IP67",
+        "color": "Green"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 93,
+    "originalPrice": 3299,
+    "discount": "24%",
+    "seller": "Anker Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.soundcore.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK015",
+    "name": "Sony SRS-XG300 Wireless Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 19990,
+    "stock": 11,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Musiccube%20Tiny%20Box%20D2.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Musiccube%20Tiny%20Box%20D2.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Syitren%20N100%20Mini%20Retro%20Bluetooth%20Speaker%20%2852532762626%29.jpg"
+    ],
+    "details": {
+      "description": "Wireless portable speaker designed for outdoor entertainment and powerful music playback.",
+      "highlights": ["Portable handle", "Wireless connectivity", "Party lighting", "Long battery life"],
+      "specifications": {
+        "brand": "Sony",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 25 hours",
+        "waterResistance": "IP67",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.6,
+    "reviewCount": 132,
+    "originalPrice": 24990,
+    "discount": "20%",
+    "seller": "Sony Electronics Store",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.sony.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK016",
+    "name": "JBL PartyBox Encore Essential",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 22999,
+    "stock": 8,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Wireless%20Jobsite%20Speaker%20Klein%20Tools.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Wireless%20Jobsite%20Speaker%20Klein%20Tools.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/CR8-S%20Speaker.jpg"
+    ],
+    "details": {
+      "description": "Party speaker designed for indoor gatherings and music entertainment.",
+      "highlights": ["Party lighting", "Powerful sound", "Bluetooth streaming", "Portable construction"],
+      "specifications": {
+        "brand": "JBL",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 6 hours",
+        "waterResistance": "IPX4",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled smartphones and tablets"
+    },
+    "reviews": [],
+    "rating": 4.7,
+    "reviewCount": 108,
+    "originalPrice": 26999,
+    "discount": "15%",
+    "seller": "Audio World",
+    "sellerRating": 4.6,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.jbl.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK017",
+    "name": "Philips TAS2505B Portable Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 2999,
+    "stock": 39,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Urbanista%20Sydney.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Urbanista%20Sydney.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Leto%20bluetooth%20speaker.jpg"
+    ],
+    "details": {
+      "description": "Compact wireless speaker for everyday music listening and portable use.",
+      "highlights": ["Compact design", "Wireless playback", "Portable construction", "Rechargeable battery"],
+      "specifications": {
+        "brand": "Philips",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 10 hours",
+        "waterResistance": "IPX7",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.3,
+    "reviewCount": 84,
+    "originalPrice": 3999,
+    "discount": "25%",
+    "seller": "Gadget Point",
+    "sellerRating": 4.4,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.philips.co.in/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK018",
+    "name": "boAt Stone 1200 Bluetooth Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 4999,
+    "stock": 46,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/ Bluetoothbox.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bluetoothbox.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bluetooth-Lautsprecher.jpg"
+    ],
+    "details": {
+      "description": "Portable Bluetooth speaker for music playback at home and outdoors.",
+      "highlights": ["Wireless connection", "Portable body", "Dynamic audio", "Rechargeable battery"],
+      "specifications": {
+        "brand": "boAt",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 9 hours",
+        "waterResistance": "IPX7",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices"
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 192,
+    "originalPrice": 5999,
+    "discount": "17%",
+    "seller": "boAt Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.boat-lifestyle.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK019",
+    "name": "Creative Sound Blaster Roar 2",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 10999,
+    "stock": 13,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/2008Computex%20ASUS%20SP-BT23.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/2008Computex%20ASUS%20SP-BT23.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/ELECOM%20LBT-SPPCPSL%2001.JPG"
+    ],
+    "details": {
+      "description": "Wireless speaker designed for desktop, home and portable audio playback.",
+      "highlights": ["Portable speaker design", "Bluetooth connectivity", "Multiple audio modes", "Rechargeable battery"],
+      "specifications": {
+        "brand": "Creative",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 8 hours",
+        "waterResistance": "Not specified",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled devices and compatible audio sources"
+    },
+    "reviews": [],
+    "rating": 4.5,
+    "reviewCount": 71,
+    "originalPrice": 13999,
+    "discount": "21%",
+    "seller": "Creative Store",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.creative.com/",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SPK020",
+    "name": "DOSS SoundBox Pro Bluetooth Speaker",
+    "category": "Audio",
+    "subcategory": "Bluetooth Speakers",
+    "price": 5999,
+    "stock": 27,
+    "thumbnail": "https://commons.wikimedia.org/wiki/Special:FilePath/Beats%20By%20Dr.%20Dre%20Pill%20Portable%20Bluetooth%20Speaker%20Black%20N2.jpg",
+    "images": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Beats%20By%20Dr.%20Dre%20Pill%20Portable%20Bluetooth%20Speaker%20Black%20N2.jpg",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Black%20portable%20Bluetooth%20speaker.jpg"
+    ],
+    "details": {
+      "description": "Portable wireless speaker for everyday music streaming and entertainment.",
+      "highlights": ["Wireless playback", "Portable construction", "Bass enhancement", "Rechargeable battery"],
+      "specifications": {
+        "brand": "DOSS",
+        "connectivity": "Bluetooth",
+        "batteryLife": "Up to 12 hours",
+        "waterResistance": "IPX6",
+        "color": "Black"
+      },
+      "compatibleWith": "Bluetooth-enabled smartphones, tablets and laptops"
+    },
+    "reviews": [],
+    "rating": 4.4,
+    "reviewCount": 96,
+    "originalPrice": 7499,
+    "discount": "20%",
+    "seller": "Audio World",
+    "sellerRating": 4.5,
+    "returnPolicy": "7 days replacement",
+    "productUrl": "https://www.dossav.com/",
+    "availability": "in_stock"
+  }
+]
