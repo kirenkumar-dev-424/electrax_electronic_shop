@@ -365,11 +365,18 @@ function login(){
     let saved_pass=window.localStorage.password
     console.log(saved_pass)
     console.log(saved_user)
-    document.getElementById('login-username').value=saved_user
-    document.getElementById('login-password').value=saved_pass
+    if(saved_user && saved_pass){
+        document.getElementById('login-username').value=saved_user
+        document.getElementById('login-password').value=saved_pass
+    }
+    else{
+        document.getElementById('login-username').value=""
+        document.getElementById('login-password').value=""
+    }
     document.querySelector('main').innerHTML=""
     let login_section=document.getElementById('login-section')
     login_section.style.display='block'
+    closeSignup()
 }
 let close_login=document.getElementById('close-login')
 close_login.addEventListener('click',closeLogin)
@@ -695,7 +702,8 @@ async function addToOrder(id,quantity,total){
     product[0]["quantity"]=quantity
     product[0]["total"]=total
     orders_list.push(product[0])
-    console.log(orders_list)
+    console.log('Orders:',orders_list)
+    home()
     
 }
 var cart_list=[]
@@ -783,11 +791,12 @@ if(!user){
 }
 
 function placeOrder(){
-    cart_list.forEach((val)=>{
+    final_cart_products.forEach((val)=>{
         orders_list.push(val)
     })
     // orders_list=[...orders_list,cart_list]
     alert("Order placed successfully!")
+    console.log(orders_list)
 }
 // Add function to window global object
 window.login=login
