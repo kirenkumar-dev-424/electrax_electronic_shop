@@ -14,9 +14,9 @@
                 <i class="bi bi-geo-alt-fill"></i>
                 <p>Add your location</p>
             </div>
-            <div>
+            <div style="cursor: pointer;">
                 <i class="bi bi-truck"></i>
-                <p>Track your order</p>
+                <p onclick="show_orders()">Track your order</p>
             </div>
         </div>
         <div>
@@ -238,9 +238,6 @@
             </div>
         </section>
         
-        <section id="selected-products-section">
-            <div class="section-container"></div>
-        </section>
     </main>
     <section id="login-section">
             <button id="close-login" onclick='closeLogin()'><i class="bi bi-x-lg"></i></button>
@@ -306,6 +303,9 @@
             <h3>Your Wishlist</h3>
             <div id="wishlist-container"></div>
         </section>
+        <section id="orders-section">
+            
+        </section>
     <!-- <section id="buy-product-section"></section> -->
     <footer></footer>
     <div class="mobile-nav">
@@ -322,7 +322,7 @@
                 <div><i class="bi bi-cart3"></i></div>
                 <div><p>Cart</p></div>
             </button>
-            <button>
+            <button onclick="show_orders()">
                 <div><i class="bi bi-box"></i></div>
                 <div><p>Orders</p></div>
             </button>

@@ -36,6 +36,7 @@ function authenticate(event){
     console.log(username,password)
     if(username===window.localStorage.username && window.localStorage.password){
         alert("Login successful!")
+        window.localStorage.user=true
         user=true
         closeLogin()
         document.getElementById('signup-list').style.display='none'
@@ -718,7 +719,7 @@ function cartFunc(){
     console.log("cart:",final_cart_products)
     final_cart_products.forEach((val)=>{
         val['total']=strToNumber(val.price)
-        total_amount+=Number(val['total'])
+        total_amount+=Number(val['total']*val['quantity'])
         cart_list.push(val)
         let div2=document.createElement('div')
         div2.className="cart_product_card"
@@ -798,6 +799,51 @@ function placeOrder(){
     alert("Order placed successfully!")
     console.log(orders_list)
 }
+var order_count=0
+function show_orders(){
+    let order_section=document.getElementById('orders-section')
+    order_section.style.display='flex'
+    order_section.style.flexDirection='column'
+    if(orders_list.length>0){
+        order_section.innerHTML=`
+        <button onclick='show_orders()' style="position: absolute; right: 10px; top:10px;"><i class="bi bi-x-lg"></i></button>
+        `
+        let p=document.createElement('p')
+        p.innerText='Orders'
+        p.style.paddingTop='20px'
+        p.style.paddingLeft='20px'
+        order_section.appendChild(p)
+        orders_list.forEach((val)=>{
+            let div=document.createElement('div')
+            div.innerText=val.name
+            div.style.paddingTop='20px'
+            div.style.paddingLeft='20px'
+            div.style.backgroundColor='whitesmoke'
+            div.style.margin="10px 0px"
+            div.style.paddingBottom="20px"
+            order_section.appendChild(div)
+        })
+    }
+    else{
+        let p=document.createElement('p')
+        p.innerText='No orders Found'
+        p.style.paddingTop='20px'
+        p.style.paddingLeft='20px'
+        order_section.innerHTML=`
+        <button onclick='show_orders()' style="position: absolute; right: 10px; top:10px;"><i class="bi bi-x-lg"></i></button>
+        `
+        order_section.appendChild(p)
+    }
+    
+    if(order_count%2==0){
+        order_section.style.visibility='visible'
+    }
+    else{
+        order_section.style.visibility='hidden'
+    }
+    order_count++
+
+}
 // Add function to window global object
 window.login=login
 window.signup=signup
@@ -813,3 +859,4 @@ window.finalCheckout=finalCheckout;
 window.priceCal=priceCal;
 window.addToOrder=addToOrder;
 window.placeOrder=placeOrder;
+window.show_orders=show_orders;
